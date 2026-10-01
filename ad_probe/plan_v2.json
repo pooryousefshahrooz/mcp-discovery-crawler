@@ -1,0 +1,6683 @@
+[
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "hiring_search_agents",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://focxle.com/api/v1/mcp",
+  "tool": "deal_list",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://lmk.today/api/ucp/mcp",
+  "tool": "search_catalog",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.uneed.best/mcp",
+  "tool": "get_trending",
+  "arguments": {
+   "period": "daily",
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "what_shearquery_does",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://shearquery.com/mcp",
+  "tool": "find_google_categories",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://commerce.halversonco.com/mcp",
+  "tool": "get_affiliate_info",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getStaysByLocation",
+  "arguments": {
+   "limit": 5,
+   "location": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "tool": "getMarketplaceAdverts",
+  "arguments": {
+   "limit": 5,
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mantiss.store/mcp",
+  "tool": "get_unmet_demand",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_list_services",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.getvaletparking.com/mcp",
+  "tool": "valet_search_cities",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "list_brands",
+  "arguments": {
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://find.codes/api/mcp",
+  "tool": "search_codes",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "search_tools",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://stackswap.ai/api/mcp",
+  "tool": "recommend_partner",
+  "arguments": {
+   "category": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childanxiety.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "discover_agents",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://agent-router.org/mcp-http/mcp",
+  "tool": "search_skills",
+  "arguments": {
+   "top_k": 5,
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosolar.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.io/api/mcp",
+  "tool": "get_help",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wolaptop.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childpsychiatry.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_events",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pifini.net/api/mcp",
+  "tool": "search_places",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "get_integration_guide",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ads.getlulu.dev/mcp",
+  "tool": "search_mcps",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wouhr.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "categories.list",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.revuo.ai/api/mcp",
+  "tool": "rankings.get",
+  "arguments": {
+   "limit": 5,
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "pasta"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "coffee"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "chocolate"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "knife"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "pizza"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "wine"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "cheese"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "bread"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "tea"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "arguments": {
+   "max_results": 5,
+   "query": "vegan"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "pasta"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "coffee"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "chocolate"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "knife"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "pizza"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "wine"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "cheese"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "bread"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "tea"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "list_products",
+  "arguments": {
+   "max_results": 5,
+   "query": "vegan"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "search_agents",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://synmerco-escrow.onrender.com/mcp",
+  "tool": "semantic_search",
+  "arguments": {
+   "limit": 5,
+   "q": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "quantum software engineer"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "error correction"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "photonics"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "cryogenics"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "FPGA"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "quantum algorithms"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "product manager"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "superconducting"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "trapped ion"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "arguments": {
+   "limit": 5,
+   "query": "quantum sensing"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "quantum software engineer"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "error correction"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "photonics"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "cryogenics"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "FPGA"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "quantum algorithms"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "product manager"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "superconducting"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "trapped ion"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchPapers",
+  "arguments": {
+   "limit": 5,
+   "query": "quantum sensing"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://umesh-malik.com/mcp",
+  "tool": "list_topics",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wokonsole.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wopool.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "discover_software",
+  "arguments": {
+   "limit": 5,
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://costbench.com/mcp",
+  "tool": "get_price_changes",
+  "arguments": {
+   "limit": 5,
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://psychiatryforkids.com/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://padel.how/mcp",
+  "tool": "list_racket_brands",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teentherapy.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://vetclinic.info/mcp",
+  "tool": "list_procedures",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "list_campaigns",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://pptogo.com/api/mcp",
+  "tool": "find_products",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://childadhd.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.gigstamp.co.uk/api/mcp",
+  "tool": "list_cities",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.gigstamp.co.uk/api/mcp",
+  "tool": "list_venues",
+  "arguments": {
+   "city": "oxford"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "q": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://kifly.ai/api/mcp",
+  "tool": "get_help",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-tool",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://laraplugins.io/mcp/plugins",
+  "tool": "search-plugin-semantic-tool",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.search_listings",
+  "arguments": {
+   "limit": 5,
+   "city": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://scout.realestate/api/mcp",
+  "tool": "scout.find_agent",
+  "arguments": {
+   "limit": 5,
+   "city": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_brands",
+  "arguments": {
+   "search": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://app.authorized.by/api/public/mcp",
+  "tool": "get_retailers",
+  "arguments": {
+   "search": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "search_assets",
+  "arguments": {
+   "keyword": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.realopen.app/mcp",
+  "tool": "get_snippets",
+  "arguments": {
+   "keyword": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wosneaker.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "find_agents",
+  "arguments": {
+   "q": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.task-bounty.com/api/mcp/v1",
+  "tool": "list_open_bounties",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "query_evidence_map",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://healthyagingatlas.com/api/mcp/",
+  "tool": "search_supplements",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenadhd.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wotablet.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://market.meshtool.ai/mcp",
+  "tool": "search",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "get_product_docs",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://www.choov.de/mcp.php",
+  "tool": "find_products",
+  "arguments": {
+   "query": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "search_deals",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.kitsdeals.com",
+  "tool": "latest_deals",
+  "arguments": {
+   "limit": 5,
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://megachad.xyz/api/mcp",
+  "tool": "get_megachad_stats",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://megachad.xyz/api/mcp",
+  "tool": "get_gallery",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wogrill.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://woroller.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "best"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "cheap"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "popular"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "new"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "top rated"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "recommended"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "beginner"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "professional"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "gift"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://ai.drinkedin.net/mcp",
+  "tool": "drinkedin_list_venues",
+  "arguments": {
+   "limit": 5,
+   "search": "deal"
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "search_products",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://cashbackpro.org/api/mcp",
+  "tool": "get_promo_codes",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://hive-mcp-zk-attestation.onrender.com/mcp",
+  "tool": "zk_list_circuits",
+  "arguments": {},
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://roamzy.io/mcp",
+  "tool": "roamzy_list_countries",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://roamzy.io/mcp",
+  "tool": "roamzy_list_esims",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenpsychiatry.com/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "search_product",
+  "arguments": {
+   "max_results": 5,
+   "q": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://mcp.bikefuchs.com/mcp",
+  "tool": "get_shop_info",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://api.storyflo.com/mcp/v1",
+  "tool": "get_market_linked_stories",
+  "arguments": {
+   "limit": 5,
+   "category": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "search_articles",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://teenanxiety.ai/api/mcp/v1",
+  "tool": "list_articles",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://flipr-x402.fly.dev/mcp",
+  "tool": "flipr_list_agents",
+  "arguments": {
+   "limit": 5
+  },
+  "read_only_hint": null
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wospeicher.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "best"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "cheap"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "popular"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "new"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "top rated"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "recommended"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "beginner"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "professional"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "gift"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "search_offers",
+  "arguments": {
+   "limit": 5,
+   "query": "deal"
+  },
+  "read_only_hint": true
+ },
+ {
+  "endpoint": "https://wohandy.de/api/mcp",
+  "tool": "lookup_product",
+  "arguments": {},
+  "read_only_hint": true
+ }
+]

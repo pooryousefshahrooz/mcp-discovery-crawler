@@ -35,7 +35,10 @@ from pathlib import Path
 import httpx
 
 HERE = Path(__file__).resolve().parent
-DEFAULT_INPUT = HERE / "inputs" / "mcp_servers_online_live_2026-09-30.csv"
+# Default pool = every directory endpoint (directories/endpoints.csv, built by
+# directories/collect.py + merge.py) plus the original Glama-derived input list.
+DEFAULT_INPUTS = [HERE / "directories" / "endpoints.csv",
+                  HERE / "inputs" / "mcp_servers_online_live_2026-09-30.csv"]
 DEFAULT_OUTDIR = HERE / "data"
 
 CLIENT_PROTOCOL_VERSION = "2025-06-18"
@@ -370,7 +373,9 @@ def write_atomic(path: Path, obj: dict):
 async def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--input", type=Path, default=DEFAULT_INPUT)
+    ap.add_argument("--input", type=Path, nargs="+", default=None,
+                    help="one or more CSV files with an `endpoint` column "
+                         "(default: directories/endpoints.csv + inputs/*.csv, whichever exist)")
     ap.add_argument("--outdir", type=Path, default=DEFAULT_OUTDIR,
                     help="results go to OUTDIR/<date>/ (default: data/)")
     ap.add_argument("--limit", type=int, default=None,
@@ -385,8 +390,18 @@ async def main():
                     help="skip prompts/get (only list prompts, don't fetch their text)")
     args = ap.parse_args()
 
-    with open(args.input, newline="") as f:
-        rows = [r for r in csv.DictReader(f) if r.get("endpoint", "").startswith("http")]
+    inputs = args.input or [p for p in DEFAULT_INPUTS if p.exists()]
+    rows, seen = [], set()
+    for path in inputs:
+        with open(path, newline="") as f:
+            for r in csv.DictReader(f):
+                ep = (r.get("endpoint") or "").strip()
+                key = ep.rstrip("/").lower()
+                if ep.startswith("http") and key not in seen:
+                    seen.add(key)
+                    r["input_file"] = path.name
+                    rows.append(r)
+    print("input files:", ", ".join(str(p) for p in inputs), flush=True)
     if args.limit is not None:
         rows = rows[: args.limit]
 
