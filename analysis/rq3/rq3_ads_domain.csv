@@ -1,0 +1,541 @@
+host,category,query,rep,ad_identity
+agent-rails.onrender.com,d4,wireless headphones,2,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,2,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,2,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d3,office chair,0,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,7,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,7,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,7,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d1,running shoes,9,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d1,running shoes,8,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d1,running shoes,5,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d2,coffee maker,7,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d1,running shoes,2,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d3,office chair,7,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d2,coffee maker,4,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d4,wireless headphones,3,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,3,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,3,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d4,wireless headphones,1,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,1,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,1,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d4,wireless headphones,0,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,0,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,0,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d2,coffee maker,3,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d1,running shoes,1,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d1,running shoes,7,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d3,office chair,6,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,5,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,5,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,5,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d2,coffee maker,5,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d4,wireless headphones,6,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,6,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,6,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d3,office chair,9,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d1,running shoes,3,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d2,coffee maker,1,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d1,running shoes,4,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d3,office chair,2,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d2,coffee maker,0,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d3,office chair,5,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d1,running shoes,6,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d2,coffee maker,9,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d2,coffee maker,8,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d1,running shoes,0,link::www.amazon.com/dp/B09Y8QYB9F
+agent-rails.onrender.com,d3,office chair,1,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d3,office chair,4,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,9,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,9,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,9,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d2,coffee maker,2,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d4,wireless headphones,4,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,4,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,4,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d2,coffee maker,6,link::www.amazon.com/dp/B09Y5DY6S5
+agent-rails.onrender.com,d3,office chair,8,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,8,link::www.amazon.com/dp/B00V2Q2OVY
+agent-rails.onrender.com,d4,wireless headphones,8,link::www.amazon.com/dp/B09HM94VDS
+agent-rails.onrender.com,d4,wireless headphones,8,link::www.amazon.com/dp/B09XS7KMDZ
+agent-rails.onrender.com,d3,office chair,3,link::www.amazon.com/dp/B00V2Q2OVY
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,7,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,7,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,8,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,8,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,8,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,8,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,8,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,5,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,5,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,5,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,5,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,7,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,7,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,7,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,7,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,7,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,2,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,0,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,0,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,0,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,0,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,1,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,1,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,6,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,6,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,6,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,6,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,6,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,2,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,2,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,8,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,8,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,8,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,8,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,2,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,2,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,2,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,2,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,4,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,4,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,4,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,4,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,0,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,3,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,3,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,1,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,1,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,1,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,1,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,1,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,6,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,6,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,5,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,5,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,5,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,5,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,5,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,9,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,9,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,8,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,3,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,3,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,3,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,3,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,4,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,4,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,0,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,0,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,0,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,0,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,0,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,9,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,9,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,9,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,9,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,9,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,9,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,9,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,9,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,9,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,5,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,5,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,7,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,7,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,7,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,7,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,3,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,1,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,4,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,4,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,4,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,4,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,4,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,3,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,3,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,3,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,3,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,3,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,0,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,0,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,9,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,5,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,2,link::www.amazon.in/dp/B0C8NFLPYG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,2,link::www.amazon.in/dp/B0D14BB5XY
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,2,link::www.amazon.in/dp/B0D14861L9
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,2,link::www.amazon.in/dp/B0DG5TKLGG
+dealsping-ai.akhilbabumfwa.workers.dev,d2,air fryer,2,link::www.amazon.in/dp/B0DTJ2PNVP
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,4,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,8,link::www.amazon.in/dp/B0G2GH2BP7
+dealsping-ai.akhilbabumfwa.workers.dev,d1,wireless earbuds,8,link::www.amazon.in/dp/B0G2GGLTMF
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,6,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,6,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,6,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,6,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,1,link::www.amazon.in/dp/B07H9CHNT7
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,1,link::www.amazon.in/dp/B0G931X7T6
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,1,link::www.amazon.in/dp/B0BD4FTKF2
+dealsping-ai.akhilbabumfwa.workers.dev,d4,laptop stand,1,link::www.amazon.in/dp/B0F2L5T9WK
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,6,link::www.amazon.in/dp/B08MT1DSPK
+dealsping-ai.akhilbabumfwa.workers.dev,d3,yoga mat,7,link::www.amazon.in/dp/B08MT1DSPK
+mcp.nexbid.dev,d2,coffee machine,7,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,7,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d3,running shoes,8,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,8,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d3,running shoes,2,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,2,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d3,running shoes,4,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,4,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d2,coffee machine,5,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,5,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d3,running shoes,5,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,5,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d3,running shoes,9,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,9,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d4,chocolate,0,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,0,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d1,pasta,7,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,7,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d4,chocolate,4,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,4,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d3,running shoes,3,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,3,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d3,running shoes,1,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,1,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d4,chocolate,1,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,1,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d2,coffee machine,6,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,6,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d2,coffee machine,3,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,3,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d2,coffee machine,0,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,0,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d1,pasta,8,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,8,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d2,coffee machine,9,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,9,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d1,pasta,9,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,9,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d3,running shoes,7,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,7,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d4,chocolate,9,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,9,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d1,pasta,0,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,0,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d4,chocolate,3,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,3,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d2,coffee machine,2,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,2,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d4,chocolate,7,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,7,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d1,pasta,6,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,6,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d1,pasta,3,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,3,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d3,running shoes,6,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,6,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d1,pasta,1,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,1,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d2,coffee machine,4,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,4,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d4,chocolate,2,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,2,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d4,chocolate,5,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,5,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d4,chocolate,6,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,6,"item::WheyProtein choco, 600 g"
+mcp.nexbid.dev,d1,pasta,5,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,5,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d3,running shoes,0,item::Sneaker-Reiniger - 2 Stk.
+mcp.nexbid.dev,d3,running shoes,0,"item::Kabelloser Mixer Bc151Eucr Blast, Cranberry"
+mcp.nexbid.dev,d1,pasta,4,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,4,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d1,pasta,2,item::Mikrowellen-Schnellkocher für Pasta
+mcp.nexbid.dev,d1,pasta,2,"item::Pfanne mit Glasdeckel, Ø 20 cm, ofenfest"
+mcp.nexbid.dev,d2,coffee machine,8,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,8,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d2,coffee machine,1,item::De'Longhi Siebträgermaschine LaSpecialista Ec9155.Mb
+mcp.nexbid.dev,d2,coffee machine,1,"item::Küchenmaschine kMix Swiss Edition, rot"
+mcp.nexbid.dev,d4,chocolate,8,item::Snack-Box
+mcp.nexbid.dev,d4,chocolate,8,"item::WheyProtein choco, 600 g"
+mcp.outdoorithm.com,d2,hiking boots,6,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,6,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d4,backpack,7,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,7,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,7,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,7,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,7,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,7,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,7,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,7,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,7,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,0,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d2,hiking boots,0,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,0,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d1,tent,6,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,6,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,6,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,6,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,6,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d2,hiking boots,5,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,5,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d4,backpack,8,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,8,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,8,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,8,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,8,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,8,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,8,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,8,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,8,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d2,hiking boots,4,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,4,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d1,tent,4,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,4,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,4,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,4,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,4,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d4,backpack,2,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,2,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,2,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,2,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,2,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,2,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,2,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,2,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,2,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d4,backpack,4,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,4,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,4,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,4,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,4,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,4,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,4,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,4,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,4,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,6,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d2,hiking boots,7,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,7,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d1,tent,2,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,2,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,2,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,2,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,2,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d4,backpack,9,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,9,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,9,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,9,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,9,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,9,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,9,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,9,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,9,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,8,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d1,tent,1,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,1,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,1,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,1,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,1,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d2,hiking boots,8,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,8,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d2,hiking boots,3,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,3,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d4,backpack,1,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,1,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,1,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,1,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,1,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,1,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,1,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,1,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,1,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d1,tent,3,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,3,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,3,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,3,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,3,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d2,hiking boots,1,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,1,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d2,hiking boots,9,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,9,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d1,tent,9,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,9,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,9,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,9,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,9,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d1,tent,5,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,5,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,5,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,5,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,5,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,2,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d4,backpack,5,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,5,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,5,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,5,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,5,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,5,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,5,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,5,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,5,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,4,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,3,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d4,backpack,3,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,3,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,3,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,3,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,3,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,3,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,3,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,3,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,3,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,1,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d2,hiking boots,2,link::www.rei.com/product/181227/ruffwear-grip-trex-dog-boots-pair
+mcp.outdoorithm.com,d2,hiking boots,2,link::www.amazon.com/dp/B01MY7S3H8
+mcp.outdoorithm.com,d4,backpack,0,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,0,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,0,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,0,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,0,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,0,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,0,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,0,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,0,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d1,tent,0,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,0,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,0,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,0,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,0,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d4,backpack,6,link::www.rei.com/product/2294430004
+mcp.outdoorithm.com,d4,backpack,6,link::www.amazon.com/dp/B0DFGMTVP8
+mcp.outdoorithm.com,d4,backpack,6,link::www.rei.com/product/2375410002
+mcp.outdoorithm.com,d4,backpack,6,link::www.amazon.com/dp/B08FF8JQDS
+mcp.outdoorithm.com,d4,backpack,6,link::www.amazon.com/dp/B0CT62VV1X
+mcp.outdoorithm.com,d4,backpack,6,link::www.amazon.com/dp/B0CT617HFM
+mcp.outdoorithm.com,d4,backpack,6,link::www.rei.com/product/2294450003
+mcp.outdoorithm.com,d4,backpack,6,link::www.rei.com/product/C08309/deuter-kid-comfort-pro-child-carrier
+mcp.outdoorithm.com,d4,backpack,6,link::www.amazon.com/dp/B08LP2PQ6C
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,5,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,7,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d1,tent,7,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,7,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,7,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,7,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,7,link::www.amazon.com/dp/B07G5XJQ5T
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.rei.com/product/2187340010
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.amazon.com/dp/B0BXBKT3KK
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.amazon.com/dp/B0CYZZ87GK
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.amazon.com/dp/B07MRG47WC
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.amazon.com/dp/B0DK7PWPFQ
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.rei.com/product/1501920001
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.rei.com/product/2427470001
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.rei.com/product/2440000001
+mcp.outdoorithm.com,d3,sleeping bag,9,link::www.amazon.com/dp/B00DT8RYCM
+mcp.outdoorithm.com,d1,tent,8,link::www.rei.com/product/4071660015
+mcp.outdoorithm.com,d1,tent,8,link::www.amazon.com/dp/B07BQGCQQZ
+mcp.outdoorithm.com,d1,tent,8,link::www.amazon.com/dp/B0797MM8V5
+mcp.outdoorithm.com,d1,tent,8,link::www.amazon.com/dp/B0C4W8HST7
+mcp.outdoorithm.com,d1,tent,8,link::www.amazon.com/dp/B07G5XJQ5T
+wem3.ai,d2,sofa,4,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,4,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,1,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,6,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,9,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,9,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,0,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,9,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,4,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,7,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,8,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,8,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,2,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,5,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,5,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,6,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,6,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,2,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,2,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,3,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,3,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,3,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,1,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,1,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,8,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,0,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,0,link::www.awin1.com/pclick.php
+wem3.ai,d2,sofa,7,link::www.awin1.com/cread.php
+wem3.ai,d2,sofa,7,link::www.awin1.com/pclick.php
+wem3.ai,d4,sneakers,5,link::www.awin1.com/pclick.php

@@ -1,0 +1,414 @@
+[
+ {
+  "host": "agent-rails.onrender.com",
+  "endpoint": "https://agent-rails.onrender.com/mcp",
+  "tool": "search_products",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "birkinbagstock.com",
+  "endpoint": "https://birkinbagstock.com/mcp",
+  "tool": "search_birkin",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "bluesky.caseyjhand.com",
+  "endpoint": "https://bluesky.caseyjhand.com/mcp",
+  "tool": "bsky_search_actors",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "dealsping-ai.akhilbabumfwa.workers.dev",
+  "endpoint": "https://dealsping-ai.akhilbabumfwa.workers.dev/mcp",
+  "tool": "search_catalog",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "domainsearchking.com",
+  "endpoint": "https://domainsearchking.com/api/mcp",
+  "tool": "find_available_domains_by_pattern",
+  "query_param": "keyword",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "mcp.nexbid.dev",
+  "endpoint": "https://mcp.nexbid.dev/mcp",
+  "tool": "nexbid_search",
+  "query_param": "query",
+  "base_args": {
+   "max_results": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "mcp.outdoorithm.com",
+  "endpoint": "https://mcp.outdoorithm.com/mcp",
+  "tool": "search_gear",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "padel.how",
+  "endpoint": "https://padel.how/mcp",
+  "tool": "search_rackets",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "qubitsok.com",
+  "endpoint": "https://qubitsok.com/mcp",
+  "tool": "searchJobs",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "socialbridge-mcp.vercel.app",
+  "endpoint": "https://socialbridge-mcp.vercel.app/mcp",
+  "tool": "search_all",
+  "query_param": "q",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "woebike.de",
+  "endpoint": "https://woebike.de/api/mcp",
+  "tool": "search_offers",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "wostrom.de",
+  "endpoint": "https://wostrom.de/api/mcp",
+  "tool": "search_offers",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "wovitamine.de",
+  "endpoint": "https://wovitamine.de/api/mcp",
+  "tool": "search_offers",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "www.cannonstudio.app",
+  "endpoint": "https://www.cannonstudio.app/mcp",
+  "tool": "search",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": true
+ },
+ {
+  "host": "closelook-mcp.look-investment-gmbh.workers.dev",
+  "endpoint": "https://closelook-mcp.look-investment-gmbh.workers.dev/mcp",
+  "tool": "search_closelook",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "diamond-mcp.stienhardt.workers.dev",
+  "endpoint": "https://diamond-mcp.stienhardt.workers.dev/mcp",
+  "tool": "search_inventory",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "eventchat-events-mcp-production.up.railway.app",
+  "endpoint": "https://eventchat-events-mcp-production.up.railway.app/mcp",
+  "tool": "search_events",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "getbeachfinder.com",
+  "endpoint": "https://getbeachfinder.com/mcp",
+  "tool": "search_beaches",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "getbooyah.com",
+  "endpoint": "https://getbooyah.com/api/mcp",
+  "tool": "search_places",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "gold-silver-analytics-mcp-production.up.railway.app",
+  "endpoint": "https://gold-silver-analytics-mcp-production.up.railway.app/mcp",
+  "tool": "search_tickers",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "izifete.fr",
+  "endpoint": "https://izifete.fr/mcp/mcp",
+  "tool": "search",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "legalfournier.com",
+  "endpoint": "https://legalfournier.com/mcp/spain-legal",
+  "tool": "find_legal_fournier_tool",
+  "query_param": "query",
+  "base_args": {
+   "max_results": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "lunoo.com",
+  "endpoint": "https://lunoo.com/mcp",
+  "tool": "find_niche",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.campermate.com",
+  "endpoint": "https://mcp.campermate.com/mcp",
+  "tool": "search_pois",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.freqblog.com",
+  "endpoint": "https://mcp.freqblog.com/mcp",
+  "tool": "search_catalog",
+  "query_param": "q",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.holdingsintel.com",
+  "endpoint": "https://mcp.holdingsintel.com/sse",
+  "tool": "search_filers",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.packrift.com",
+  "endpoint": "https://mcp.packrift.com/mcp",
+  "tool": "search_products",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.parse.gl",
+  "endpoint": "https://mcp.parse.gl/mcp",
+  "tool": "parse_search",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.remem.me",
+  "endpoint": "https://mcp.remem.me/mcp",
+  "tool": "browse_collections",
+  "query_param": "search",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.stierproducts.com",
+  "endpoint": "https://mcp.stierproducts.com/mcp",
+  "tool": "search_products",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.taxact.com",
+  "endpoint": "https://mcp.taxact.com/mcp",
+  "tool": "find_interview_topic",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mcp.tickadoo.com",
+  "endpoint": "https://mcp.tickadoo.com/mcp",
+  "tool": "recommend_experiences",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "mozilladatacollective.com",
+  "endpoint": "https://mozilladatacollective.com/api/mcp",
+  "tool": "search",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "nextrole.site",
+  "endpoint": "https://nextrole.site/api/mcp",
+  "tool": "find_roles",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "outagedeck.com",
+  "endpoint": "https://outagedeck.com/api/mcp",
+  "tool": "search_providers",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "pxhmfytbjcbeyugsvcki.supabase.co",
+  "endpoint": "https://pxhmfytbjcbeyugsvcki.supabase.co/functions/v1/mcp",
+  "tool": "search_games",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "sdsentry.0xpi.com",
+  "endpoint": "https://sdsentry.0xpi.com/mcp-sds",
+  "tool": "search_sds",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "searchshopai-mcp.fly.dev",
+  "endpoint": "https://searchshopai-mcp.fly.dev/mcp",
+  "tool": "search_products",
+  "query_param": "query",
+  "base_args": {
+   "max_results": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "wem3.ai",
+  "endpoint": "https://wem3.ai/api/mcp",
+  "tool": "search_products",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "whyismy.org",
+  "endpoint": "https://whyismy.org/mcp",
+  "tool": "search_articles",
+  "query_param": "query",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "www.finerxfinder.com",
+  "endpoint": "https://www.finerxfinder.com/mcp",
+  "tool": "open_price_finder",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ },
+ {
+  "host": "www.stipple.sh",
+  "endpoint": "https://www.stipple.sh/mcp-tenders",
+  "tool": "find_tenders",
+  "query_param": "q",
+  "base_args": {
+   "limit": 5
+  },
+  "serves_ads_prior": false
+ },
+ {
+  "host": "www.strikemission.app",
+  "endpoint": "https://www.strikemission.app/api/mcp",
+  "tool": "find_surf_trip_guides",
+  "query_param": "query",
+  "base_args": {},
+  "serves_ads_prior": false
+ }
+]

@@ -20,3 +20,15 @@ __pycache__/
 .venv/
 *.log
 .DS_Store
+
+# other-protocol scanners (regenerated; contain third-party content)
+a2a_data/
+sse_data/
+x402_data/
+longitudinal_mcp/
+longitudinal_a2a/
+longitudinal_logs/
+ad_probe/results/
+
+# full crawl output (2.3GB, regenerated; per-endpoint data may carry session ids/tokens)
+fresh_measurement/
