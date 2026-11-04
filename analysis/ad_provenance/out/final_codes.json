@@ -1,0 +1,4830 @@
+{
+ "4306175a4c64": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "response disclosure: store links are affiliate links, only paying stores listed (first-party catalogue)",
+  "decided_by": "agreement",
+  "note_B": "Response disclosure says store links are affiliate links earning Avahit a commission, attached to avahit.com/p product links. About 40% of these responses have items; the rest are empty."
+ },
+ "6408cf71f5b9": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosolar.de/out redirect wrapping AliExpress s.click affiliate links; portal affiliate disclosure in response."
+ },
+ "abbc302eab70": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "18421fcb14ce": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "/go registration links; response: 'go through Domain Search King's Namecheap and Spaceship affiliate links'",
+  "decided_by": "agreement",
+  "note_B": "Own-host /go registration redirects; the response states 'Registration links go through Domain Search King's Namecheap and Spaceship affiliate links'."
+ },
+ "24de592e4d0d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "CJ affiliate link nested in a moltadserver ad-unit redirect (ft=affiliate_network)",
+  "decided_by": "agreement",
+  "note_B": "Own-host moltadserver.com/r clickUrl on a TikTok Shop product ad unit (disclosure 'Sponsored * affiliate partner offer') whose decoded token holds a CJ (www.dpbolvw.net) affiliate click URL."
+ },
+ "1525fbd89aa4": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "grabgpu /go rent_url on offers flagged is_referral:true by the server",
+  "decided_by": "agreement",
+  "note_B": "Own-host grabgpu.com/go rent_url paired with server-emitted is_referral:true and a vast.ai ref_id direct_url; tool description says some links are referral links."
+ },
+ "26b156cdb923": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "REI Impact link in server field affiliate_links on 'Our Pick' catalogue items",
+  "decided_by": "agreement",
+  "note_B": "REI Impact (rei.pxf.io) affiliate-network link in the affiliate_links field of the server's gear catalog; instructions say data comes from Outdoorithm's own database, but no explicit statement that the server adds affiliate links."
+ },
+ "6aabde9b0ade": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wouhr.de/out redirect wrapping AliExpress s.click and eBay EPN links; portal affiliate disclosure in response."
+ },
+ "44f9e3b26042": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "2ed08b360a71": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "same product links as a2a23d3de2d2, response disclosure covers them",
+  "decided_by": "agreement",
+  "note_B": "Disclosure 'Links are CashbackPro affiliate links ... commission goes to CashbackPro' on responses with own-host product_url affiliate links."
+ },
+ "f5efea9c02ea": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "4843f4721014": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "as 7278846c2052",
+  "decided_by": "agreement",
+  "note_B": "Own-host aloha.fyi/r booking redirects to Viator tours; no affiliate or paid statement anywhere in the evidence.",
+  "verification": "same code base as mcp-server-nani-v3-20 (aloha.fyi/r/ links); see 7278846c2052"
+ },
+ "c293d6759a2c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "describes search-engine ads as data",
+  "decided_by": "agreement",
+  "note_B": "Methodology caveat about how sponsored rows in search-engine captures are sampled; analytics text, no ad item."
+ },
+ "9bce12b00db3": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "Vast.ai ref_id link on offers flagged is_referral:true",
+  "decided_by": "agreement",
+  "note_B": "cloud.vast.ai ref_id link in direct_url flagged is_referral:true by the server; tool description states rent links include referral links."
+ },
+ "ca33af46061a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "6fbff0c1ed6f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "1bbf8a734ca0": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "Per-item 'may earn a commission if you buy through the retailer link', but these product_urls are plain merchant URLs with no tracking parameter, so the stated relationship cannot apply to the link as returned; codebook (c) requires the statement to be consistent with the response. The same server's tracked links (Awin, CJ) are coded confirmed separately (A).",
+  "decided_by": "adjudication"
+ },
+ "dcf1b96a0931": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "e1aab30df413": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wopool.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "a5ca7fd42b77": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Flagged by coder B from the attribution-only list; verified by A in the raw response: own-host /uit/ outbound buy_url plus the response's affiliate_disclosure ('Sommige links ... zijn affiliate-links ... ontvangen wij een commissie'). 'Some links' wording -> documentation/medium. Detector miss (Dutch hyphenated wording, /uit/ path) recorded as a recall limitation.",
+  "decided_by": "adjudication"
+ },
+ "755a2a6d1267": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "sales-commission calculator name",
+  "decided_by": "agreement",
+  "note_B": "'commission on a sale' describes a sales-commission calculator."
+ },
+ "a0bea364d3b2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wovitamine.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "a38cc658d21f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "7366762a21d1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "wem3 /api/go wrapping Awin (clickref=wem-...) and AliExpress affiliate links; instructions: funded by affiliate commission",
+  "decided_by": "agreement",
+  "note_B": "Own-host wem3.ai/api/go signed redirect wrapping Awin/AliExpress affiliate click links; response disclosure says outbound links are affiliate-tracked for WEM and rows are flagged affiliate true/false."
+ },
+ "df0d14be8676": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosolar.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "286a58524d18": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wolaptop.de/out redirect wrapping eBay affiliate-tracked links; portal affiliate disclosure in response and instructions."
+ },
+ "3df191a91df1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "CJ affiliate link nested in a moltadserver ad-unit redirect (ft=affiliate_network)",
+  "decided_by": "agreement",
+  "note_B": "Own-host moltadserver.com/r clickUrl on a TikTok Shop product ad unit (disclosure 'Sponsored * affiliate partner offer') whose decoded token holds a CJ (www.jdoqocy.com) affiliate click URL."
+ },
+ "cf120e526b6b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "web_search",
+  "note": "reddit /r/ path",
+  "decided_by": "agreement",
+  "note_B": "Organic Reddit /r/deals search result URL; the '/r/' path is a subreddit, not a redirect, and carries no affiliate or paid evidence."
+ },
+ "ab141921052c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "own-host booking redirect for direct-booking listings; no affiliate/paid evidence",
+  "decided_by": "agreement",
+  "note_B": "Own-host /mcp/go booking redirect with session id; no affiliate, referral or sponsored statement in response, tool description or instructions."
+ },
+ "b8fbf696e09b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "API endpoint path /v1/ref/",
+  "decided_by": "agreement",
+  "note_B": "api.duoleads.com/v1/ref/country is an API endpoint for country reference data ('ref' = reference), not a referral or ad."
+ },
+ "f9d074ed9404": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wohandy.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "2e577309415a": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wostrom.de/out redirect wrapping eBay EPN and Amazon tag links; portal affiliate disclosure in response."
+ },
+ "d306463fa7c7": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "rules text mentioning sponsored tasks",
+  "decided_by": "agreement",
+  "note_B": "'sponsored-task requirement pages' in service rules text refers to funded tasks, not ads."
+ },
+ "2416bbb4881b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "affiliate link (Amazon tag=lmk.today-20 / aff_url bid-redirect) nested in the operator's /c/ click wrapper; instructions: query string carries click attribution",
+  "decided_by": "agreement",
+  "note_B": "Own-host lmk.today/c/ click wrapper whose url param is an Amazon link with tag=lmk.today-20 (Associates tag); the operator's wrapper carries the affiliate destination."
+ },
+ "6d81bb462891": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "cb9b9f256f3b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wostrom.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "872f9610ca15": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "3277e34f47f6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "76c6d7844146": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "Server instructions: 'Results contain affiliate links. Always pass these links to the user as provided'; every response ends 'Kann Affiliate-Links enthalten' -> codebook (c) (A correct; B had not seen the instruction/footer).",
+  "decided_by": "adjudication",
+  "verification": "bikefuchs-mcp-stub app/lib/mcpServer.ts:24 'host for the /go/ affiliate links we hand to users'; :359-364 links are canonical bikefuchs.com/go/<shop>/<ean> built by the operator, never raw shop URLs"
+ },
+ "c354951eceeb": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "90d18f39a5a8": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "'## Sponsored: ... house ad placed by the owner of this site'",
+  "decided_by": "agreement",
+  "note_B": "'## Sponsored' heading of the in-band agent-ad block ('Sponsored content... a house ad placed by the owner of this site')."
+ },
+ "e19e5eaf9562": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "43660246de3e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "directory description of another server mentions affiliate links",
+  "decided_by": "agreement",
+  "note_B": "'with disclosed affiliate links' is part of another MCP server's description in a directory listing; no link or ad item."
+ },
+ "d052495a1a19": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Awin affiliate link; description: links may be affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Awin cread.php affiliate-network link in buy_url; tool description says links may be affiliate and the response disclosure says Stymie may earn a commission."
+ },
+ "f7c4f3a40831": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Own-host lmk.today/c/ redirect to Wayfair carrying an aff_url parameter pointing to a bid/redirect host with campaign_id/sub_id; affiliate nature rests on the aff_url parameter only (network host not a known one).",
+  "decided_by": "single_coder"
+ },
+ "df6a74994f11": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon tag on gear-catalogue picks; responses: some links are affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Amazon dp links with tag=...-20 in the VoyageHacks gear catalog; response discloses that links returned by this tool are VoyageHacks affiliate links."
+ },
+ "9ab312dd2afd": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'sponsored by the Department for Transport'",
+  "decided_by": "agreement",
+  "note_B": "'sponsored by the Department for Transport' in a GOV.UK organisation description."
+ },
+ "3364c86d62f6": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "Same mechanism as acb0aef50184 (adjudicated confirmed): ad units served to the calling agent for display, with 'Affiliate disclosure ... promoted via MoltAd platform demand' (A, for consistency).",
+  "decided_by": "adjudication"
+ },
+ "a6497a3b3d7c": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "integration docs for the operator's ad middleware; not an ad impression",
+  "decided_by": "agreement",
+  "note_B": "Lulu Ads integration guide (middleware that attaches a labeled sponsored field to tool results): ad-tech documentation, not an ad impression."
+ },
+ "2c052dcee62f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "directory placement table, not an ad",
+  "decided_by": "agreement",
+  "note_B": "Table of MCP directories/registries where the server is listed; catalog placement, not advertising."
+ },
+ "61e0e9e223d6": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wovitamine.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "7d7749a1fe75": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "own-host deal redirect with 'Relationship: affiliate' per offer",
+  "decided_by": "agreement",
+  "note_B": "Own-host /v1/deals/go redirect with src=mcp labeled 'Relationship: affiliate' in the response itself."
+ },
+ "79656ace2da3": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "deal.ly/go redirect on eBay listings; instructions: eBay Partner Network affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Own-host deal.ly/go redirect buy_link on eBay listings; server instructions state buy links are eBay Partner Network affiliate links."
+ },
+ "7b9bf279bceb": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosneaker.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "6c66303560f5": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "blog search result about ads",
+  "decided_by": "agreement",
+  "note_B": "'sponsored blocks' is in a blog post summary in search results; no ad item."
+ },
+ "9bee75036453": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "49c5f2e3ce6b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "Eventbrite ?aff=oddtdtcreator organiser tracking code; no paid evidence",
+  "decided_by": "agreement",
+  "note_B": "Eventbrite aff=oddtdtcreator tracking code with no stated affiliate/paid relationship; it arrives in source_url/source_provenance of provider usc_localist (would be third_party_content if counted)."
+ },
+ "0b38a8205dd1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wolaptop.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "0c06102bfee0": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "disclosure_label Ad on sponsored results",
+  "decided_by": "agreement",
+  "note_B": "disclosure_label 'Ad' emitted on sponsored results from the operator's own auction (auction_id, bid_token)."
+ },
+ "ad848b0e70fd": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wovitamine.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "af7f636b736f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'sponsored build bounties' in a tool-catalog text; no ad item",
+  "decided_by": "agreement",
+  "note_B": "'sponsored build bounties' appears in a tool-catalog description of a job board; no ad item."
+ },
+ "d049ac7fc2ad": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon storefront link with tag + affiliate disclosure",
+  "decided_by": "agreement",
+  "note_B": "Amazon storefront link with tag=voyagehacks-20 returned as the fallback, labelled VoyageHacks Amazon storefront, with VoyageHacks affiliate disclosure in the response."
+ },
+ "490aad779f81": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "empty promo-code lists + disclosure",
+  "decided_by": "agreement",
+  "note_B": "CashbackPro affiliate disclosure on promo-code responses whose code lists are empty; no item."
+ },
+ "9b25a1ee0383": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wohandy.de/out redirect wrapping eBay EPN campid and Amazon tag links (network field n=); response and instructions disclose affiliate links with commission to the portal."
+ },
+ "1be50a0269ff": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wohandy.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "d2a911262b02": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "/go/get-crypto redirect; instructions: affiliate links from PeanutButterJelly",
+  "decided_by": "agreement",
+  "note_B": "Own-host peanutbutterjelly.io/go?src=mcp redirect; server instructions say the server provides affiliate links whose commissions fund scholarships."
+ },
+ "7282f9d48632": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "capability text of a listed agent",
+  "decided_by": "agreement",
+  "note_B": "'transparent sponsored recommendations' is a capability description of a listed agent; no sponsored item."
+ },
+ "25c2bc9dab17": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Own-host lmk.today/c/ redirect to Wayfair with an aff_url bid-redirect parameter (campaign_id/sub_id); affiliate nature only weakly verifiable.",
+  "decided_by": "single_coder"
+ },
+ "e026b7cf72a5": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "8ff5c1926e3c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "same links; response: 'These are affiliate links'",
+  "decided_by": "agreement",
+  "note_B": "In-response 'Disclosure: These are affiliate links ... PeanutButterJelly may earn a commission' next to own-host /go links."
+ },
+ "630565dbb8d1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "sponsored_rank 3",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted sponsored_rank 3 with Sponsored/Ad disclosure and bid tokens."
+ },
+ "c8f36d286c3b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wopool.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "5e469e881e2c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wospeicher.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "09640fb24c1e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "about_thrifle answers the question it is called for (what the service is); the affiliate-network list is self-description with no ad item and nothing inserted into another answer (B).",
+  "decided_by": "adjudication"
+ },
+ "34d5bbca2648": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "German 'Anzeige' = display (product text)",
+  "decided_by": "agreement",
+  "note_B": "'Anzeige' here is the German word for a device display in product descriptions, not an ad label."
+ },
+ "ae19e28e142c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Travelpayouts tp.media links generated for any destination; sibling tools and responses state VoyageHacks affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Travelpayouts tp.media affiliate-network links with marker generated by the tool; response states some links are affiliate links and VoyageHacks may earn a commission."
+ },
+ "bd931c9749e1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wotablet.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "3cb3d220f877": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "tool generates an Amazon affiliate search link for any query",
+  "decided_by": "agreement",
+  "note_B": "Tool description says it generates an Amazon affiliate search link; tag=dealspingai-21 matches server instructions; Associates disclosure in response.",
+  "verification": "as dc5ad4ceaacc"
+ },
+ "6bc76565b34f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "sponsored_search tool output (same sponsored items)",
+  "decided_by": "agreement",
+  "note_B": "sponsored_search returns sponsored_results from the operator's own sponsored ranking (tool describes billing tokens and disclosure labels)."
+ },
+ "fa13207b8df8": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "'Sponsored via picoads' disclosure",
+  "decided_by": "agreement",
+  "note_B": "'Sponsored via picoads' disclosure on each served ad item."
+ },
+ "14b700b849d6": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "6e374aa56099": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "PayU docs URL with utm_medium=Instagram returned by a documentation search; the UTM is part of the indexed third-party URL.",
+  "decided_by": "single_coder"
+ },
+ "19fe673d0381": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 7366762a21d1",
+  "decided_by": "agreement",
+  "note_B": "Own-host wem3.ai/api/go redirect wrapping AliExpress s.click affiliate links; per-row affiliate flags and WEM commission disclosure in response."
+ },
+ "a21583f95738": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "is_sponsored:false",
+  "decided_by": "agreement",
+  "note_B": "\"is_sponsored\":false on directory listings: a negative flag."
+ },
+ "a9a6bef62cb6": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Awin/AliExpress affiliate link nested in the wem3 /api/go redirect; response: outbound links are affiliate-tracked",
+  "decided_by": "agreement",
+  "note_B": "Own-host wem3.ai/api/go signed redirect whose to= param is a AliExpress s.click affiliate link; response discloses that outbound links are affiliate-tracked for WEM."
+ },
+ "0b906a1ce004": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "f2d04bbdf4cb": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "the operator's own discount card ('FineRx may earn a fee')",
+  "decided_by": "agreement",
+  "note_B": "Promotes the operator's own free FineRx discount card; 'FineRx may earn a fee' with no third-party affiliate or paid link."
+ },
+ "fa9f54483236": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "areFeesSponsored payment metadata",
+  "decided_by": "agreement",
+  "note_B": "\"areFeesSponsored\":true is an x402 payment-scheme field (fee sponsorship), not an ad."
+ },
+ "c5caade63374": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "non-empty sponsored array served by the ad network",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted 'sponsored' array of ad items with picoads serve ids; tool description says it returns sponsored recommendations."
+ },
+ "95053c70146d": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "web_search",
+  "note": "fortune.com URL with utm_source=reddit quoted inside a scraped Reddit post body; third-party share attribution, not an ad.",
+  "decided_by": "single_coder"
+ },
+ "e3fa3c501006": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "Price comparison of ad vendors published by an ad-placement seller: advertising-industry material, codebook commercial_other (B).",
+  "decided_by": "adjudication"
+ },
+ "568d316a91da": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wokonsole.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "90f6b0f2a0f6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "all responses empty + disclosure",
+  "decided_by": "agreement",
+  "note_B": "Exchange.news commission disclosure on responses with empty result arrays; no item."
+ },
+ "df9fca6da349": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "sponsored result with utm_medium=cpc, bid/impression tokens from the server's auction (demo tenant)",
+  "decided_by": "agreement",
+  "note_B": "Product URL with utm_medium=cpc&utm_campaign=sponsored in an item the server labels disclosure 'Sponsored'/'Ad' with bid and impression tokens from its own auction (demo tenant, example.com placeholder)."
+ },
+ "c4ab2f5a0399": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "abe3ff51859c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "disclosure text in responses without any product link",
+  "decided_by": "agreement",
+  "note_B": "Amazon Associates disclosure on responses that carry no product item (category listings / empty results); the product links are covered by a separate signature."
+ },
+ "8dfeca748afa": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "sponsored_rank 2",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted sponsored_rank 2 with Sponsored/Ad disclosure and bid tokens."
+ },
+ "5c1dee406bef": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "85bf1fdd55d3": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Own-host lmk.today/c/ redirect to Wayfair with an aff_url bid-redirect parameter; affiliate nature only weakly verifiable.",
+  "decided_by": "single_coder"
+ },
+ "087ca09dcc00": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "sponsoredResults: [] (empty)",
+  "decided_by": "agreement",
+  "note_B": "\"sponsoredResults\": [] is an empty sponsored placement."
+ },
+ "39a7bc78fd99": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosneaker.de/out redirect wrapping AliExpress s.click and Amazon tag links; portal affiliate disclosure in response."
+ },
+ "693447541d32": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "82ba72e89ccf": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "/api/go partner sign-up links; description: 'recommended affiliate partner(s)'",
+  "decided_by": "agreement",
+  "note_B": "Own-host stackswap.ai/api/go 'Sign up' redirects; tool description says it returns StackSwap's recommended affiliate partners with sign-up URLs."
+ },
+ "f1634df4d083": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Awin/AliExpress affiliate link nested in the wem3 /api/go redirect; response: outbound links are affiliate-tracked",
+  "decided_by": "agreement",
+  "note_B": "Own-host wem3.ai/api/go signed redirect whose to= param is a AliExpress s.click affiliate link; response discloses that outbound links are affiliate-tracked for WEM."
+ },
+ "3574ec06d01a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "'Anzeige' = watch display",
+  "decided_by": "agreement",
+  "note_B": "'Anzeige' is a watch display-type facet (Analog) in the filter list, not an ad label."
+ },
+ "5ff65bf717e4": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "same links; response disclosure",
+  "decided_by": "agreement",
+  "note_B": "Same WEM affiliate-tracking disclosure; about 40% of these responses carry no product rows (only fallback links)."
+ },
+ "e436c637843d": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "1aaffc53306f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "CJ affiliate link nested in a moltadserver ad-unit redirect (ft=affiliate_network)",
+  "decided_by": "agreement",
+  "note_B": "Own-host moltadserver.com/r clickUrl on a TikTok Shop product ad unit (disclosure 'Sponsored * affiliate partner offer') whose decoded token holds a CJ (www.anrdoezrs.net) affiliate click URL."
+ },
+ "ce359536e56c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "2f54a1569a4b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "Amazon tag + aff:true per item; ascsubtag=clk_X equals the server's own /v1/go/clk_X id -> minted by the server",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=agentrails-20 link carries ascsubtag=clk id matching the server's own /v1/go click endpoint, item flagged aff:true, and response disclosure says Agent Rails earns commission.",
+  "verification": "agent-rails src/AgentRails.Core/Services/AmazonAffiliateNetwork.cs:29-48 builds ?tag={AmazonPartnerTag}&ascsubtag={clickId}; Options/AgentRailsOptions.cs:8 AmazonPartnerTag='agentrails-20' (observed tag)"
+ },
+ "b37761a42a62": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "aee79dba1ebc": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "operator's referral-programme handbook",
+  "decided_by": "agreement",
+  "note_B": "RRG referral/affiliate programme handbook with commission structure; program documentation, not an ad shown to a user."
+ },
+ "a13e54d9a48b": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "91df7c666e08": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "speedbot_topics is called to list the operator's own funded-task prompts; returning them is the tool's function, not promotion inserted into an answer (B).",
+  "decided_by": "adjudication"
+ },
+ "3e43371ca9d4": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "placements:[] empty sponsored slot",
+  "decided_by": "agreement",
+  "note_B": "Sponsored slot tool returned an empty placement ({\"label\":\"Sponsored\",\"placements\":[]})."
+ },
+ "defc91cf795b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "88173745e6f0": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "CJ affiliate link nested in a moltadserver ad-unit redirect (ft=affiliate_network)",
+  "decided_by": "agreement",
+  "note_B": "Own-host moltadserver.com/r clickUrl on a TikTok Shop product ad unit (disclosure 'Sponsored * affiliate partner offer') whose decoded token holds a CJ (www.tkqlhce.com) affiliate click URL."
+ },
+ "ca3396d79c8c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "calendar booking link",
+  "decided_by": "agreement",
+  "note_B": "cal.id/r/discovery is the operator's calendar booking link for a discovery call; no ad or affiliate element."
+ },
+ "c71351ac6ab8": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "is_promoted:true listings ranked first by the job board",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted is_promoted:true on job listings; tool description says promoted listings appear first and are marked."
+ },
+ "5af037f3c7c7": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "picks.bonizu.com/out redirect; tool description: returns tracked affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Own-host picks.bonizu.com/out redirect in field affiliate_url; tool description says it returns tracked affiliate links."
+ },
+ "29ea73875793": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as e3fa3c501006 (B).",
+  "decided_by": "adjudication"
+ },
+ "a3b0b4c5e557": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosolar.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "40a1f30394d2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "recommended exchange with referral_code COINREBATE and /go signup redirect",
+  "decided_by": "agreement",
+  "note_B": "Own-host coinrebate.vip/go signup_url paired with a referral_code field and fee-after-rebate figures, stating the referral nature in the response."
+ },
+ "c31575ecb475": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "1fff6efc9649": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Travelpayouts eSIM links; description: affiliate links, VoyageHacks may earn a commission",
+  "decided_by": "agreement",
+  "note_B": "Travelpayouts tp.media affiliate links to eSIM stores; tool description says they are affiliate links on which VoyageHacks may earn a commission."
+ },
+ "225627078e83": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "Eventbrite ?aff= tracking code supplied with provider record (discotech); no evidence of a paid relationship",
+  "decided_by": "agreement",
+  "note_B": "Eventbrite aff=aff0discotech is an Eventbrite tracking code whose paid/affiliate nature is not verifiable from the link or stated anywhere; if counted, it sits in source_provenance provider=discotech (third_party_content)."
+ },
+ "24fbe68eda89": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon tag on editorial picks; instructions: buy links are affiliate (Amazon Associates)",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=iykyk...-20 buy_url in the server's own editorial catalog; server instructions state buy links are Amazon Associates affiliate links."
+ },
+ "bfbeee96420c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "sponsoredResults: []",
+  "decided_by": "agreement",
+  "note_B": "\"sponsoredResults\": [] is an empty sponsored placement."
+ },
+ "9a44484dab73": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "same offers as 7d7749a1fe75 ('Relationship: affiliate')",
+  "decided_by": "agreement",
+  "note_B": "'Relationship: affiliate' labels each own-host /v1/deals/go offer link in the response."
+ },
+ "645d527caea8": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "CJ link next to canonical URL; same disclosure",
+  "decided_by": "agreement",
+  "note_B": "CJ (tkqlhce.com) affiliate-network click link in product_url with the server's per-item disclosure that Kit's Deals may earn a commission; canonical URL given separately."
+ },
+ "c7d9ef6f5c45": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "policy text about rel=sponsored",
+  "decided_by": "agreement",
+  "note_B": "Policy text saying commercial links use rel=\"sponsored\"; no ad item in this response."
+ },
+ "55cc443e073c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "utm_medium=organic&utm_source=microfo... on a Songkick concert URL in source_url of provider songkick; the third party set the attribution, and there is no ad or operator promotion.",
+  "decided_by": "single_coder"
+ },
+ "f1e5b68f885c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "'(Sponsored)' creatives",
+  "decided_by": "agreement",
+  "note_B": "'(Sponsored)' label appended by picoads to each served ad message."
+ },
+ "44f7051b212f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wospeicher.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "2eb59c9775ab": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "/go booking links decode to venues' own websites, no partner key",
+  "decided_by": "agreement",
+  "note_B": "Own-host 'tracked booking link' whose token decodes to the venue's own website with a null key; no affiliate or paid evidence."
+ },
+ "559b81706a82": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "CJ Booking.com link with sid=mcp-cars",
+  "decided_by": "agreement",
+  "note_B": "CJ (anrdoezrs) affiliate click link with sid=mcp-cars for Booking.com Cars in the tool's composed output; response discloses VoyageHacks affiliate links."
+ },
+ "b744adae2de4": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "sponsorship rules/terms of the operator's paid-ranking product",
+  "decided_by": "agreement",
+  "note_B": "BestBid advertising rules/terms ('Paid advertising. Rank reflects completed paid bids'): ad-seller documentation, not an impression."
+ },
+ "dc5ad4ceaacc": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon search link tag=dealspingai-21; instructions name the affiliate tag and tool returns a 'monetized affiliate link'",
+  "decided_by": "agreement",
+  "note_B": "Amazon.in search URL with tag=dealspingai-21, the tag the server instructions declare; tool description says it returns a monetized affiliate link.",
+  "verification": "repo src/mcp.js:15 builds the same amazon.in/s?k= link but with tag webdealsping-21; observed tag dealspingai-21 (named in server instructions) -> deployed build differs from public repo; documentation basis kept"
+ },
+ "e870414270aa": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "240aa13654e7": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "98ec2d06ad5f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "\"tier\":\"paid\" = paid API tool tier, not an ad",
+  "decided_by": "agreement",
+  "note_B": "\"tier\":\"paid\" marks paid API tools in a catalog (pricing tier), not advertising."
+ },
+ "5ec5f13756b2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'sponsored by the Department for Transport'",
+  "decided_by": "agreement",
+  "note_B": "'sponsored by the Department for Transport' in a GOV.UK organisation description."
+ },
+ "d19c964a4bad": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "placements:[]",
+  "decided_by": "agreement",
+  "note_B": "Sponsored slot tool returned an empty placement list."
+ },
+ "838294f9b9dd": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "referral deep-link template in programme docs",
+  "decided_by": "agreement",
+  "note_B": "Template deep-link (saymetry.com/r/CODE?to=...&s=placement-tag) in the operator's affiliate-program instructions; documentation, not an ad impression."
+ },
+ "ebae3840352f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'paid placement' in an agent profile",
+  "decided_by": "agreement",
+  "note_B": "Same agent profile text with a negative 'paid placement' mention; no ad."
+ },
+ "15fe1540a79d": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "PDF path /rs/",
+  "decided_by": "agreement",
+  "note_B": "info.usi.com/rs/...pdf is a cited biography PDF (Marketo asset path), not a redirect or ad."
+ },
+ "309825957c25": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "aave referral link; same instructions",
+  "decided_by": "agreement",
+  "note_B": "aave.com/r/7601C1 signup_url described in-response as 'Our link opens Aave's official referral page'; server instructions disclose commission on its links."
+ },
+ "c49779aff798": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "a08f7a68f08e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "60081f046011": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "click tracker on recipes",
+  "decided_by": "agreement",
+  "note_B": "Own-host track/click links with cid on organic Betty Bossi recipe results; none of these recipe links sits on a Sponsored item."
+ },
+ "4a723d55cec2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "'No retailer link is returned here'",
+  "decided_by": "agreement",
+  "note_B": "PadelTrue affiliate disclosure explicitly says 'No retailer link is returned here'."
+ },
+ "ccf707a5a8d8": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "getMarketplaceAdverts: classified adverts from the operator's marketplace (description: third-party partner deals)",
+  "decided_by": "agreement",
+  "note_B": "getMarketplaceAdverts returns marketplace adverts; the tool description calls them adverts / third-party partner deals listed on the operator's marketplace."
+ },
+ "7278846c2052": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "own-host short links to tour platforms; no affiliate/paid evidence in the evidence shown",
+  "decided_by": "agreement",
+  "note_B": "aloha.fyi/r short-link booking redirects for Viator tours; no affiliate, referral or sponsored statement in response, tool description or instructions, so destination nature is unverifiable.",
+  "verification": "aloha-fyi-mcp http.ts:186-211 buildAffiliateUrl (operator CJ PID 7903538 for Groupon; UTM stamping of stored affiliate_url for Viator/GYG/Klook); http.ts:250-300 /r/{code} redirect; lib/aaak.ts:9 'booking_url - affiliate revenue'. Note: repo tool description (http.ts:570) says 'with affiliate booking links'; the deployed description crawled 2026-09-30 says only 'with booking links'."
+ },
+ "ffc51f4083a5": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "56a07dc69040": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "piqod signed redirect; description 'redirect PIQOD affiliato'; response: commission goes to PIQOD",
+  "decided_by": "agreement",
+  "note_B": "Own-host piqod.it/api/oracle/go signed redirect; response attribution_note says booking via redirect_url sends the commission to PIQOD and tool description calls it an affiliate redirect."
+ },
+ "3939a5dd34db": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "e65d18bf6922": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woebike.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "4be823a34a3a": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosolar.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "ca8e688fc58c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "no deals matched + disclosure boilerplate",
+  "decided_by": "agreement",
+  "note_B": "CardDeals commission disclosure on 'No current gift-card deals matched' responses; boilerplate with no item."
+ },
+ "1ec0dc52d3d4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "links to the operator's own cruise booking engine (agency commission model)",
+  "decided_by": "agreement",
+  "note_B": "Links to Pixie Vacations' own cruise booking engine; 'Pixie earns commission from the cruise line' describes its travel-agency business, with no third-party affiliate or paid link."
+ },
+ "426f32508b9f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "deals:[] + disclosure",
+  "decided_by": "agreement",
+  "note_B": "DealsPing Associates disclosure on empty trending-deal lists."
+ },
+ "257cd6a0340a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "a3c55d3b50b4": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "comparison of ad-placement prices incl. the operator's own; market info, not an ad",
+  "decided_by": "agreement",
+  "note_B": "Whole compare_placement_prices response: published paid-placement prices of advertising vendors; ad-industry pricing material."
+ },
+ "5630bdfe71d4": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'paid placement cannot move a studio' ranking-method text",
+  "decided_by": "agreement",
+  "note_B": "'Paid placement' appears in ranking-method boilerplate saying paid placement cannot move a studio in these lists; no sponsored item."
+ },
+ "528ae002d4d5": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "98fd98b222b8": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wotablet.de/out redirect wrapping eBay EPN and Amazon tag links; portal affiliate disclosure in response."
+ },
+ "295760870459": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "order-tracking page link",
+  "decided_by": "agreement",
+  "note_B": "livaglow.de/track is the shop's order-tracking page listed among site links; no ad."
+ },
+ "5f069de50435": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "cashbackpro /api/go link; response note: already a CashbackPro affiliate link",
+  "decided_by": "agreement",
+  "note_B": "Own-host /api/go/mcp redirect; response note states each product_url is already a CashbackPro affiliate link."
+ },
+ "f696440ffb29": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "sponsoredResults: []",
+  "decided_by": "agreement",
+  "note_B": "\"sponsoredResults\": [] is an empty sponsored placement."
+ },
+ "fd3fa46dae9e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "deals:[] + disclosure",
+  "decided_by": "agreement",
+  "note_B": "DealsPing Associates disclosure on empty deal lists (deals:[], count 0)."
+ },
+ "218f6f14ce9d": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "placements:[] empty",
+  "decided_by": "agreement",
+  "note_B": "Sponsored slot tool returned an empty placement list."
+ },
+ "8bb6076fcf7e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wotablet.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "da765be98418": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woebike.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "8462ac961b6c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Returned links are the operator's own listing pages tagged source=mcp: first-party attribution, codebook promotional; no returned affiliate link (A). Either code leaves the ad counts unchanged.",
+  "decided_by": "adjudication"
+ },
+ "d17e066d5c15": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wopool.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "775fb74cc877": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wogrill.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "177927c8e395": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 79656ace2da3",
+  "decided_by": "agreement",
+  "note_B": "Own-host deal.ly/go redirect buy_link; server instructions state buy links are eBay Partner Network affiliate links."
+ },
+ "9a3729f40a2d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wospeicher.de/out redirect wrapping AliExpress s.click and Amazon tag links; portal affiliate disclosure in response."
+ },
+ "119717ba291e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "affiliate_url field with Amazon tag; description: results may contain affiliate URLs",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=healthagingat-20 in affiliate_url field of the server's own catalog; tool description says results may contain affiliate URLs and instructions say to disclose them.",
+  "verification": "healthyagingatlas-mcp server.js:23-25 loads operator data/moat/products.json; server.js:150 returns affiliate_url: p.affiliateUrl"
+ },
+ "21362fda8086": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "server's /v1/go/clk_ redirect for the same aff:true items",
+  "decided_by": "agreement",
+  "note_B": "Own-host /v1/go/clk_ redirect whose click id is the ascsubtag on the paired Amazon tag=agentrails-20 affiliate buy link; response discloses Agent Rails affiliate links.",
+  "verification": "same click id minted by the server (AmazonAffiliateNetwork.cs:30,45 subtag=clickId) and served as /v1/go/clk_<id>"
+ },
+ "c4e11fc6bd2b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'paid placement' in article text",
+  "decided_by": "agreement",
+  "note_B": "'paid placement' appears in the post's FAQ prose about AI-bot advertising; editorial text."
+ },
+ "39c4f9fa2579": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "Own-host lmk.today/c/ redirect wrapping an Amazon tag=lmk.today-20 affiliate link.",
+  "decided_by": "single_coder"
+ },
+ "8b744af7b699": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "example referral link in the operator's affiliate-programme docs",
+  "decided_by": "agreement",
+  "note_B": "Example referral link ('jane-x4k2') in Saymetry's own documentation of its affiliate partner program (30% commission terms); program docs rather than an ad shown to a user."
+ },
+ "2b6bdc8f5199": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "fomo referral invite link; instructions: may earn commission on our codes/links",
+  "decided_by": "agreement",
+  "note_B": "fomo.family/r/findcodes referral link in signup_url; how_to_apply calls it fomo's referral page and server instructions say find.codes may earn a commission on its codes or links."
+ },
+ "d0f9b7b34b85": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "a07e89acea0b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "[Sponsored] item with campaign id, bid and auction score emitted by the server",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted [Sponsored] label with 'campaign ... bid 0.50 CHF, auction score' from the operator's own auction; instructions say commercial placements are labelled."
+ },
+ "4aedffc1293d": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "web_search",
+  "note": "Amazon tag inside the scraped WSJ result body; asc_refurl names that WSJ page",
+  "decided_by": "agreement",
+  "note_B": "Amazon link with tag=credible0e7-20 sits inside the scraped markdown of the WSJ Buyside deals page returned as a search result.",
+  "verification": "firecrawl-mcp-server src/server.ts:1895-1924 relays the /v2/search envelope (position stamps, tool-price stripping only); no insertion path. Live WSJ page HTTP 401 (2026-11-04); archive fetch not performed (blocked as walled content)."
+ },
+ "28a9aab558c6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "9e036127b2f8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'paid placement' in an agent profile",
+  "decided_by": "agreement",
+  "note_B": "'paid placement' appears in an agent profile saying 'I do not do link-building, paid placement, or trading' (negative mention)."
+ },
+ "57eb8b484d37": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "plain merchant URLs; generic 'earns affiliate commission on some purchases'",
+  "decided_by": "agreement",
+  "note_B": "Vagus Lab discloses affiliate commission on some purchases, but the response returns only its own article and PubMed links, with no merchant or affiliate link."
+ },
+ "7b18cf1f2d06": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "3f7f4e8dd40b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wohandy.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "83c663e818d8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "FTC legal text quoted in search result",
+  "decided_by": "agreement",
+  "note_B": "'affiliate links' occurs in a quoted FTC CFR example in legal search results."
+ },
+ "40d82506297f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Awin link next to canonical URL; response: Kit's Deals may earn a commission",
+  "decided_by": "agreement",
+  "note_B": "Awin cread.php affiliate-network link in product_url with per-item disclosure 'Kit's Deals may earn a commission if you buy through the retailer link' (product_url_canonical shows the unwrapped URL)."
+ },
+ "0fbe9e808867": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wovitamine.de/out redirect wrapping Amazon tag and Tradedoubler affiliate links; portal affiliate disclosure in response."
+ },
+ "5495fcb2e9a9": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "'employer-sponsored' tax text",
+  "decided_by": "agreement",
+  "note_B": "'employer-sponsored' in tax-treatment text; not an ad."
+ },
+ "b4087718f3cb": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "zero-result fallback Amazon link with the operator's affiliate tag",
+  "decided_by": "agreement",
+  "note_B": "Fallback Amazon.in search URL with tag=dealspingai-21 (declared in server instructions); tool description mandates displaying it; Associates disclosure in response.",
+  "verification": "as dc5ad4ceaacc"
+ },
+ "06618b7dcab0": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wouhr.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "08c6335deae0": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wogrill.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "7e54a0dfb514": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "directory referral redirect to listed servers; no paid evidence",
+  "decided_by": "agreement",
+  "note_B": "Own-host mcpqueen.com/go redirect in a field named referral_link pointing at MCP servers in a registry; no paid, affiliate or referral-program relationship is stated, so it reads as outbound click tracking."
+ },
+ "18a670a994fa": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "a96f510dbf69": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "5ee823aa318c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon tag in affiliate_links field",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=outdoorithm00-20 link in affiliate_links of the server's own gear catalog; indirect origin evidence."
+ },
+ "be5e81228116": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "web_search",
+  "note": "Skimlinks link inside the scraped WSJ result body; sref names that page",
+  "decided_by": "agreement",
+  "note_B": "go.skimresources.com affiliate-network link sits inside the scraped WSJ Buyside page markdown (xcust/sref name that page).",
+  "verification": "as 4aedffc1293d"
+ },
+ "e8862bf4169e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Both coders: confirmed/operator. Confidence lowered on B's caveat: the server field is named aff_url and points to a /bid/redirect on r.v2i8b.com, which is not a known affiliate network, and lmk.today publishes no affiliate disclosure; the Amazon-tag links of the same wrapper are verifiable and stay high/medium.",
+  "decided_by": "adjudication"
+ },
+ "caa14deb4d4a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "directory outbound redirect, no paid evidence",
+  "decided_by": "agreement",
+  "note_B": "Own-host TAAFT /go?ref=mcp outbound redirect to tool websites; no sponsored flag or affiliate statement."
+ },
+ "4f88f7101bef": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "83ce18ba03ed": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "d309944cb269": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woroller.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "d56a29aa7a68": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon tag in affiliate_links field",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=outdoorithm00-20 link in affiliate_links of the server's own gear catalog; indirect origin evidence."
+ },
+ "18cdf3b590d8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "f9e18fcb3fe6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "click tracker on organic catalogue products (no sponsored label in list_products)",
+  "decided_by": "agreement",
+  "note_B": "Own-host nexbid.dev/api/track/click with pid and own utm_source=nexbid_mcp on organic catalog products; no list_products item carried a Sponsored label, so no paid evidence."
+ },
+ "537dbd43d3e7": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wolaptop.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "58cede830050": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "1242bcb843c1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon tag in affiliate_links field",
+  "decided_by": "agreement",
+  "note_B": "Amazon Associates link (tag=outdoorithm00-20, ref_=as_li_ss_tl) in the affiliate_links field of the server's own gear catalog; origin rests on 'Outdoorithm's database' wording only."
+ },
+ "fb2c326fb669": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "1961f447cc29": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "affiliate link (Amazon tag=lmk.today-20 / aff_url bid-redirect) nested in the operator's /c/ click wrapper; instructions: query string carries click attribution",
+  "decided_by": "agreement",
+  "note_B": "Own-host lmk.today/c/ click wrapper whose url param is an Amazon link with tag=lmk.today-20 (Associates tag); the operator's wrapper carries the affiliate destination."
+ },
+ "e38dd2be6c7d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "picoads /rs/<serve_id> redirect on 'Sponsored via picoads' items",
+  "decided_by": "agreement",
+  "note_B": "Own-host picoads.xyz/rs serve redirect on items labeled '(Sponsored)' and 'Sponsored via picoads' with serve_id."
+ },
+ "23e17e74c00a": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "same registration links, response disclosure",
+  "decided_by": "agreement",
+  "note_B": "The response states registration links go through Domain Search King's Namecheap and Spaceship affiliate links, alongside its own-host /go links."
+ },
+ "6822798ca27a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "a listed site's own description mentions its ads",
+  "decided_by": "agreement",
+  "note_B": "'Labelled advertising and affiliate links support the free site' is part of a third-party product's directory description; no ad item."
+ },
+ "9d21b0fea766": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 3918c66e1cb4",
+  "decided_by": "agreement",
+  "note_B": "amzn.to Amazon short link in the racket catalogue with per-offer padel.how affiliate disclosure."
+ },
+ "8e1ce898e3b1": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "3db85ec61212": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wokonsole.de/out redirect wrapping eBay EPN campid links; response disclosure 'Preisvergleich mit Affiliate-Links'."
+ },
+ "b01c2febcba0": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host woroller.de/out redirect wrapping Amazon tag=wobranding-21 links; portal affiliate disclosure in response and instructions."
+ },
+ "c21077de0fa8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "Songkick-set UTM on source_url of records from provider songkick; organic event listing.",
+  "decided_by": "single_coder"
+ },
+ "dcb563e82731": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "as f2d04bbdf4cb",
+  "decided_by": "agreement",
+  "note_B": "Operator's own FineRx discount card with 'may earn a fee' footer; self-promotion, no affiliate link."
+ },
+ "acb0aef50184": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "Tool description: 'Publisher agents inject these as ads'; the creatives (moltadserver redirect wrapping a CJ link, ft=affiliate_network) are ad units served to the calling agent for display, the same role as picoads get_recommendations which both coders coded confirmed -> confirmed for consistency (A).",
+  "decided_by": "adjudication"
+ },
+ "dae19f89e9ac": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "Instagram share-sheet UTM inside an employer's job description text; not an ad or operator promotion.",
+  "decided_by": "single_coder"
+ },
+ "54520b64bb2b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "abcf4fdac813": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "6cdac2bf992b": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "[Sponsored] tariffs rendered by the server; description: affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted '[Sponsored]' tariffs with the response note '[Sponsored] = bezahlte Topplatzierung' and 'Alle Links sind Affiliate-Links'."
+ },
+ "3ad230e9e4c2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wovitamine.de/out redirect whose u= param is a Tradedoubler affiliate click link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "ede5d2d92416": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "a227dda73f89": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "measured /go link to the operator's own Shopify store; instructions: preserve query string so publisher can measure",
+  "decided_by": "agreement",
+  "note_B": "Own-host /go 'measured_url' redirect to the operator's own Stienhardt Shopify product pages with utm_source=diamond_mcp; instructions say the query string lets the publisher measure visits and sales, with no affiliate or paid relationship."
+ },
+ "e35b8f871e05": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woebike.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "4f18bf7b6b29": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "REI Impact link in affiliate_links field",
+  "decided_by": "agreement",
+  "note_B": "REI Impact affiliate link in affiliate_links of the operator's gear catalog; no upstream supplier named, origin from instructions' own-database statement."
+ },
+ "35c21585027d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wogrill.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "2ee7c7a29162": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Awin SeeTickets link; same instruction ('booking link (an affiliate link that supports gigstamp)') -> operator (B correct).",
+  "decided_by": "adjudication"
+ },
+ "c845cb17e7a4": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wospeicher.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "0b8b0f977df4": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wotablet.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "abc9e0e198e9": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woebike.de/out redirect whose u= param is a Tradedoubler affiliate click link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "432e66bebf75": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "011863c2b74c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosneaker.de/out redirect whose u= param is a AliExpress s.click affiliate link; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "300d0933f40c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "Own-host lmk.today/c/ click redirect wrapping an Amazon link with tag=lmk.today-20 (Associates tag); the operator's wrapper carries the affiliate destination.",
+  "decided_by": "single_coder"
+ },
+ "d103e9c7921d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wosneaker.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "a2a23d3de2d2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "own-host /api/go product links; description: product URLs are CashbackPro affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Own-host /api/go/mcp redirect with commission_rate/commission_usd fields in response; tool description says product URLs are CashbackPro affiliate links."
+ },
+ "808b63721c7a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "8400e46d9134": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "783b2938c34d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Amazon tag + per-offer affiliate disclosure",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=padelhow-20 link with per-offer disclosure 'Affiliate link. padel.how may earn a commission'."
+ },
+ "9d0bcb774311": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "same /api/go partner link ('StackSwap partner')",
+  "decided_by": "agreement",
+  "note_B": "Own-host stackswap.ai/api/go link labeled 'StackSwap partner'; the affiliate nature is stated only in the sibling recommend_partner tool description on the same server."
+ },
+ "658f0b0e9f78": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wogrill.de/out redirect wrapping eBay EPN campid and Amazon tag links; response disclosure 'Preisvergleich mit Affiliate-Links'."
+ },
+ "6d9691da85e0": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "b6bfc68065c8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "guide titles about commissions",
+  "decided_by": "agreement",
+  "note_B": "'Earn Commission' is part of an article title in guide search results."
+ },
+ "2c79425ee523": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "sponsored:[] Hub not found",
+  "decided_by": "agreement",
+  "note_B": "picoads responses with an empty sponsored array (no fill)."
+ },
+ "b0d53445fa88": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "own-host buy redirect; no affiliate statement in evidence",
+  "decided_by": "agreement",
+  "note_B": "Own-host glowjakt.se/go buy_url with a click token; no affiliate, referral or sponsored statement found in response, tool description or instructions."
+ },
+ "47f7131daa86": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "items:[] with disclosure string only",
+  "decided_by": "agreement",
+  "note_B": "Agent Rails affiliate disclosure on responses with zero items (n:0, items:[]): disclosure boilerplate with no item."
+ },
+ "14cd6d4573e2": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing; inventory material."
+ },
+ "698de0966f9a": {
+  "status": "commercial_other",
+  "origin": "third_party_content",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Amazon tag inside one seller's example output in a marketplace listing",
+  "decided_by": "agreement",
+  "note_B": "Amazon tag=pulsenetwork7-20 link sits inside a third-party seller's outputSchema example payload in a PayanAgent offer listing."
+ },
+ "f4f27ea3cb04": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "search_placements returns MoltAd ad-inventory placements ('Platform affiliate demand inventory'); inventory listing."
+ },
+ "56fc5a5d7597": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "5a6c838e02f7": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "a61f27df57c6": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "ad_network",
+  "note": "sponsored_rank emitted by the server's ad auction",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted sponsored_rank 1 with disclosure 'Sponsored' and auction/bid tokens from the operator's sponsored_search."
+ },
+ "0207d4bc538e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Awin/AliExpress affiliate link nested in the wem3 /api/go redirect; response: outbound links are affiliate-tracked",
+  "decided_by": "agreement",
+  "note_B": "Own-host wem3.ai/api/go signed redirect whose to= param is a Awin affiliate link; response discloses that outbound links are affiliate-tracked for WEM."
+ },
+ "dbef19ae5e25": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "TradingView aff_id partner link; same instructions",
+  "decided_by": "agreement",
+  "note_B": "TradingView aff_id link called 'our TradingView partner link' in the response; server instructions disclose commission on find.codes links."
+ },
+ "7fb8f11ff6bd": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "TikTok Shop product ad units with tracked moltadserver clickUrl and Sponsored disclosure",
+  "decided_by": "agreement",
+  "note_B": "Own-host moltadserver.com/r clickUrl on TikTok Shop 'product ad units' with Sponsored disclosure; decoded token wraps a CJ (kqzyfj/tkqlhce) affiliate click URL."
+ },
+ "51715093987c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Apartment's own website URL carrying utm_source=gmb (Google Business profile attribution) in a listing record; the third party set it, no ad.",
+  "decided_by": "single_coder"
+ },
+ "6c3ddb985b05": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 21a9478ba20c",
+  "decided_by": "agreement",
+  "note_B": "Own-host wopool.de/out redirect wrapping eBay EPN campid links; portal affiliate disclosure in response and instructions."
+ },
+ "ba695ee3e363": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "\"featured\":true on a property listing; no evidence that featured is paid",
+  "decided_by": "agreement",
+  "note_B": "\"featured\":true on a property listing; nothing says featured placement is paid or sponsored."
+ },
+ "1f8c4dd09cb7": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as 8bd18a103681",
+  "decided_by": "agreement",
+  "note_B": "CJ affiliate tracking link in a MoltAd 'Affiliate Demand' placement listing for advertisers/publishers; inventory material."
+ },
+ "63957ef50b1f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wostrom.de/out redirect whose u= param is a Amazon.de link with an Associates tag; response and instructions disclose portal affiliate links (Provision)."
+ },
+ "f585ec75003f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "<!-- agent-ad ... kind=house disclosure=sponsored --> block inserted in the post",
+  "decided_by": "agreement",
+  "note_B": "<!-- agent-ad ... disclosure=\"sponsored\" --> block inserted into the fetched post. It is a house ad by the site owner, but it is explicitly marked sponsored per the server's ad policy."
+ },
+ "fd5555baa08a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "UK visa-sponsor register",
+  "decided_by": "agreement",
+  "note_B": "UK visa sponsor-licence register search; 'sponsor' is immigration sponsorship, not advertising."
+ },
+ "7bead21cc09f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "utm_medium=referral&utm_campaign=directory_listing on Toolvori's own URL inside a third-party directory listing; organic listing, not a paid placement.",
+  "decided_by": "single_coder"
+ },
+ "3d3cf98ad666": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host wouhr.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "f367a08adfa2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "as e8862bf4169e",
+  "decided_by": "adjudication"
+ },
+ "24e2f78bc1df": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "catalog items with affiliate_url tag=webdealsping-21; description: ready-to-use affiliate links",
+  "decided_by": "agreement",
+  "note_B": "Amazon.in dp links with tag=webdealsping-21; tool description says the catalog returns ready-to-use affiliate links and response discloses Amazon Associate earnings.",
+  "verification": "dealsping-ai src/mcp.js:9-12 builds https://www.amazon.in/dp/${asin}?tag=webdealsping-21 (observed tag)"
+ },
+ "57da6a172d6e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "3918c66e1cb4": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "amzn.to link with per-offer 'Affiliate link. padel.how may earn a commission'",
+  "decided_by": "agreement",
+  "note_B": "amzn.to Amazon short link with per-offer disclosure 'Affiliate link. padel.how may earn a commission'."
+ },
+ "24ab6d4f3b2f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "other",
+  "note": "promotion_tier spotlight on the same listings",
+  "decided_by": "agreement",
+  "note_B": "Server-emitted promotion_tier 'spotlight' on promoted job listings."
+ },
+ "185ff9d36b6f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "259f6004d004": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "df2ba3a725be": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woroller.de/out redirect whose u= param is a eBay Partner Network link (campid); response and instructions disclose portal affiliate links (Provision)."
+ },
+ "f1f911c13808": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "Own-host lmk.today/c/ redirect wrapping an Amazon tag=lmk.today-20 affiliate link (mixed with Wayfair links that carry an aff_url bid redirect).",
+  "decided_by": "single_coder"
+ },
+ "ffe86e32a1d0": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "results:[] + disclosure",
+  "decided_by": "agreement",
+  "note_B": "DealsPing disclosure on empty catalog results (results:[], count 0); the affiliate links in non-empty results are covered by the URL signature."
+ },
+ "d7edfe86ba08": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "source_code",
+  "confidence": "high",
+  "tool_category": "shopping",
+  "note": "as 76c6d7844146 (A correct).",
+  "decided_by": "adjudication",
+  "verification": "as 76c6d7844146 (/go/url?shop= fallback for products without EAN)"
+ },
+ "eec85d48f5e2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "One click-tracker mechanism shared by organic and sponsored items (~1/3 sponsored). The sponsored items are already counted through the [Sponsored] label signature a07e89acea0b; counting this link signature as an ad would count organic results as ads (task rule: organic commercial results are not paid placements) -> not_ad for the link mechanism (A).",
+  "decided_by": "adjudication"
+ },
+ "baef6c0c00c8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "b2dbadc77cf8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "d782c5009f55": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "affiliate link (Amazon tag=lmk.today-20 / aff_url bid-redirect) nested in the operator's /c/ click wrapper; instructions: query string carries click attribution",
+  "decided_by": "agreement",
+  "note_B": "Own-host lmk.today/c/ click wrapper whose url param is an Amazon link with tag=lmk.today-20 (Associates tag); the operator's wrapper carries the affiliate destination."
+ },
+ "8bd18a103681": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "buy-side placement inventory listing for advertisers",
+  "decided_by": "agreement",
+  "note_B": "CJ (jdoqocy) affiliate link inside a MoltAd placement-inventory listing ('Platform affiliate demand inventory', rate credits, CPR unit) returned by the [Buy] inventory-search tool: ad inventory, not an impression."
+ },
+ "ccda9da6a337": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "4f96274273e5": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 3918c66e1cb4",
+  "decided_by": "agreement",
+  "note_B": "amzn.to Amazon short link with per-offer disclosure that padel.how may earn a commission."
+ },
+ "1666ce6b0f2c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "reddit /r/ paths",
+  "decided_by": "agreement",
+  "note_B": "Organic Reddit post URLs (/r/<subreddit>) from a social search fan-out; no redirect or affiliate element."
+ },
+ "918689120a49": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Impact Ticketmaster link. booking.source='dailyinfo' names where the event record came from, but the server instructions state the booking link is 'an affiliate link that supports gigstamp'; codebook rule 1 excludes third_party_content when the server describes itself as adding such links -> rule 3 operator (B correct; A had missed the instruction text, truncated on the sheet).",
+  "decided_by": "adjudication",
+  "verification": "Both Impact Ticketmaster links (publisher 7623219; Enter Shikari 2026-10-21, We Are Scientists 2026-09-30) carry booking.source='dailyinfo'. dailyinfo event page 298649 fetched 2026-11-04 no longer shows a ticket link (event passed); no archive copy (CDX empty)."
+ },
+ "2b1bef29dc2a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "21a9478ba20c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "/out redirect wrapping eBay EPN campid / Amazon tag / AliExpress; instructions: links go to merchant (Affiliate)",
+  "decided_by": "agreement",
+  "note_B": "Own-host woebike.de/out redirect wrapping eBay EPN (campid) and Tradedoubler links with network field n=; response and instructions disclose affiliate links with commission to the portal."
+ },
+ "7dcb3b2b159e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "utm_source=shopify&utm_medium=catalog with _gsid on third-party merchant product/cart links returned from Shopify catalog records (supply_id gid://shopify); attribution set by the upstream catalog, not an ad and not operator self-promotion.",
+  "decided_by": "single_coder"
+ },
+ "098381de9b6e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "cex.io referral signup link; instructions: we may earn a commission on our codes or links",
+  "decided_by": "agreement",
+  "note_B": "cex.io/join referral link (prid=referral-promo) in a find.codes record; server instructions say find.codes may earn a commission on its codes/links."
+ },
+ "ae1ddbd67989": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "as e8862bf4169e",
+  "decided_by": "adjudication"
+ },
+ "ac1e335c033c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "676a0f4aa4d6": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9306fc71105b": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "f7706e7ef9ea": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "41fd2c5e8bd2": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "657f4e8e7879": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7bd6208e14fe": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e1605795feb4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b9e5930e5548": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "88140ebc9fbe": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5f3f683b0712": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "18be228dea0c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "88b501897f17": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d9994489f6b8": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9b3b1f309728": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "2a99c1feb50b": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "3a2330f169e5": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "50a3cf64c3d5": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d78c9737c6f6": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d63691ff1082": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9f272b63a1ff": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "39cc815925fe": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5f3b31a09694": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "c88ec6839a43": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ee4b621614ab": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "87b7c07b237f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "82fd49b4b077": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "113fe984d251": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "bc911c412fe3": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fe7e4da815bd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ebaa31cf4bac": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1d7ecb8f88f0": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7d1b48ec7a2f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "545dec4d30cd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "54ab2b2ff640": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "f8535c0ae50f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "73336f1336b1": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "caa3ba2d1b06": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "42ddc4b2afae": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ae6343e9bde9": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ce47eec8e3e6": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "0e6e94dbf30c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "f17d77730177": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "001b5558d6af": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "c3e8680dc2af": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "4db3be63c042": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e4499c74a340": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5f1b3666631e": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "842b13d8a462": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e3f37f0da48a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fda60086350e": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7d8359a5f90a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7fdb526af07c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "c88a97d7c8ef": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "392d2516ac85": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "2a4efc0aeab1": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d4afc0569537": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fff1b5bdbace": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1cd75427b265": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "c90c3adad14a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1ec7efbd1227": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "54691c1d163a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "45aba5aa417b": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "cc8dd0a2e4be": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d254a87807cd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5d8181cd662a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "bef5cf3fac3f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5151d023d8b4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "745f6c415f9a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "cf59a39efd66": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b240c14754a1": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8de7da0f1ba2": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fc3b71c8fb14": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d806251120bd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "63e9975946b7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6d2956b47b69": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "19425f5c9cfa": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b3daf0232314": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9e1b6276eb8d": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fbd2b72eca81": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "887d8fa8df01": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "43a9af119f42": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1801b04963b6": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b603ee170117": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7a47cec4d59d": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "89f4b6cc802f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "73b2ebf3d1ee": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "2d31148a7292": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1afcf393fdcd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "4dddaaa4a288": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ae21cfad876b": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "03af67d0b139": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "25a405b81777": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "27ac8d0b97ce": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1e2127b72c81": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1b2efb1fea63": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "4f71eb3644ec": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "25501500f3d8": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "429ea580a552": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "a1a584901ecb": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "63c2f327ae8a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9aa0af28f9ea": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "03f78996826f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "15171de66f96": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "82cf65d73931": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fbb7e9921e16": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "55a181fc0318": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "27c638c999f7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "765706494fd9": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "262da2ff2562": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8c8feb31042f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "603db4390bf3": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "25198e146031": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "11005f78bbc5": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "09cadff070ba": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "a7a38897c184": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "c23cdf59a8ed": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "38934f47ecb2": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "56efe322d999": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "85f8e251d44d": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5aa570b6a13e": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6b99c7e74193": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "f821ecc088f5": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5ac1f03a5813": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d54c8001dd5f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "62871f285fce": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "07efa9825f00": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "32e7416aab86": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b56b48b67fa7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e8322d06f4b4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "3375200e118d": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6da61f464e8a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "dc2a513b3971": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5bc37075069c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "985c34568cd9": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "a9c264fa75df": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e4d7dc3a4e65": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8854954222ad": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7fe2026ca489": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6a38fb8f04fe": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "607bc2ddecfd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "a1f252c96c94": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "13b950ff5170": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e1043a897ce0": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "41da8d2d94cd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "55cff26b1461": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "f828da4b34f4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d4d44da60f81": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1228dd483235": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5f03cfef3804": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5478beca16f8": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "a149e6296a67": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8a4e9a5ece79": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "3f65ff7039a6": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "20a126ebdac2": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "0df55414dd45": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "4b91096e0b2c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "757b5844f63d": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b676e1856c86": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9fdde706012a": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "2a55a68529cc": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "bd6d8cef8c6f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "86570d192e05": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "38c8fbaed8b7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b12f8f306d00": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "28f5bbeed01e": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "7860b452892c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e7b9fa34d55e": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8b9209baa064": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fa8a641ef27f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6148c7e94caf": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "3d3053741f93": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "519e3a37dd12": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "9afafc254134": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "562d40777fe1": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ed3aa0ab6a3f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6f7b0c2833d2": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b43e31e089bb": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "31fa178e581c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8bf47eae7ad4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "f70439718cec": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "bb5adbba08a3": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "31ac94cd0bc6": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "71495c5129a4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "8842f2819a7f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b9b047d8bea3": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "d666d7f9f037": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ec7086c2d061": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "649d041c822f": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "fdde66ba46e8": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "b7fd2d1f5976": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "ce2fbd04feef": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "27caa24465e2": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "730bb95cccf7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "407403d72c32": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "119a37277cf8": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "af4ef0b2d80e": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1a29ca830b59": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "44a965c925a7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6455ce10d0f4": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "47930d6b11c3": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1aee93261da9": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "3e55552f285d": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "2a8fafbdf48b": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "5b2fa5646154": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "c9f8ea9875fd": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1e7263c4a780": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "1a99c3cd908b": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "6d8c89208cce": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "e5917f6b3ae7": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "613990d66293": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ },
+ "838e0c2d9c90": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "",
+  "note": "attribution-only default (codebook)",
+  "decided_by": "default_rule"
+ }
+}

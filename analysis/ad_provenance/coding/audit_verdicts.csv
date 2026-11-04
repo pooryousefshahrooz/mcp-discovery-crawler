@@ -1,0 +1,45 @@
+sample_id,server,is_ad,origin_ok,note
+0,mcp.firecrawl.dev,yes,yes,Amazon tag/Skimlinks link inside the scraped WSJ result body; asc_refurl/sref name that page
+1,mcp.firecrawl.dev,yes,yes,Amazon tag/Skimlinks link inside the scraped WSJ result body; asc_refurl/sref name that page
+2,mcp.firecrawl.dev,yes,yes,Amazon tag/Skimlinks link inside the scraped WSJ result body; asc_refurl/sref name that page
+3,mcp.firecrawl.dev,yes,yes,Amazon tag/Skimlinks link inside the scraped WSJ result body; asc_refurl/sref name that page
+4,moltad.net,yes,yes,"CJ affiliate link in a MoltAd ad unit with ""affiliate disclosure ... MoltAd platform demand"""
+5,mcp.aloha.fyi,yes,yes,operator /r/ redirect; code buildAffiliateUrl (http.ts:186-211)
+6,grabgpu.com,yes,yes,operator /go/ rent_url on offer flagged is_referral:true (Vast ref_id)
+7,mcp.outdoorithm.com,yes,yes,REI Impact link in server field affiliate_links
+8,picoads.xyz,yes,yes,"""(Sponsored)"" creative, disclosure ""Sponsored via picoads"", serve_id redirect"
+9,mcp.bikefuchs.com,yes,yes,"operator /go/ shop link; footer ""Kann Affiliate-Links enthalten""; code mcpServer.ts:24"
+10,find.codes,yes,yes,referral invite link; instructions: may earn commission on our codes/links
+11,wohandy.de,yes,yes,/out redirect to eBay item with EPN campid; instructions: Affiliate
+12,mcp.nomadstays.com,yes,yes,item returned by getMarketplaceAdverts with /ad/<id> URL (advertising image path)
+13,mcp.kitsdeals.com,yes,yes,"CJ (tkqlhce) affiliate link + ""may earn a commission"""
+14,www.choov.de,yes,yes,"tariff rendered ""[Sponsored]"" by the server"
+15,bestelectricproducts.com,yes,yes,Amazon search link with Associates tag + disclosure
+16,wohandy.de,yes,yes,/out redirect to eBay item with EPN campid; instructions: Affiliate
+17,bonizu.com,yes,yes,picks.bonizu.com/out affiliate_url; description: tracked affiliate links
+18,www.gigstamp.co.uk,yes,yes,Awin pclick booking link; instructions: booking link is an affiliate link supporting gigstamp
+19,wosneaker.de,yes,yes,/out redirect to AliExpress s.click affiliate link
+20,woebike.de,yes,yes,/out redirect to Tradedoubler affiliate click
+21,mcp.outdoorithm.com,yes,yes,REI Impact link in server field affiliate_links
+22,www.choov.de,yes,yes,"tariff rendered ""[Sponsored]"" by the server"
+23,wokonsole.de,yes,yes,/out redirect to eBay item with EPN campid
+24,mcp-production-680d.up.railway.app,yes,yes,Awin cread link; description: links may be affiliate links
+25,healthyagingatlas.com,yes,yes,affiliate_url Amazon tag; code server.js:150
+26,www.coinrebate.vip,yes,yes,signup /go redirect with referral_code
+27,lmk.today,yes,yes,lmk /c/ wrapper around Amazon tag=lmk.today-20
+28,padel.how,yes,yes,amzn.to link with per-offer affiliate disclosure
+29,piqod.it,yes,yes,"signed affiliate redirect; description ""redirect PIQOD affiliato"""
+30,moltad.net,yes,yes,"CJ affiliate link in a MoltAd ad unit with ""affiliate disclosure ... MoltAd platform demand"""
+31,padel.how,yes,yes,amzn.to link with per-offer affiliate disclosure
+32,stackswap.ai,yes,yes,/api/go partner link; description: recommended affiliate partner(s)
+33,catalog.carddeals.co,yes,yes,"/go offer redirect with ""Relationship: affiliate"""
+34,mcp.adoraads.ai,yes,yes,"sponsored result (disclosure_label Ad, bid token, utm_medium=cpc); demo tenant"
+35,voyagehacks.com,yes,yes,Amazon tag on gear-catalogue pick; response affiliate disclosure
+36,dealsping-ai.akhilbabumfwa.workers.dev,yes,yes,Amazon search link with operator tag + Associates disclosure
+37,wotablet.de,yes,yes,/out redirect to eBay item with EPN campid
+38,www.peanutbutterjelly.io,yes,yes,"/go redirect + ""These are affiliate links"" disclosure"
+39,qubitsok.com,yes,yes,"is_promoted:true, promotion_tier spotlight on the listing"
+40,qubitsok.com,yes,yes,"is_promoted:true, promotion_tier spotlight on the listing"
+41,wogrill.de,yes,yes,/out redirect to Amazon.de with tag wobranding-21
+42,wospeicher.de,yes,yes,/out redirect to eBay item with EPN campid
+43,deal.ly,yes,yes,deal.ly/go eBay redirect; instructions: eBay Partner Network affiliate links

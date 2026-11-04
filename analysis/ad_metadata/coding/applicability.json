@@ -1,0 +1,12 @@
+{
+ "_about": "Auction-specific categories (bid, score, competing, winner) are marked N/A only where the server's public implementation was read and contains no auction, bidding, CPC/CPM, campaign-selection or advertiser logic, and the deployed responses match that implementation (the ad mechanism is affiliate tagging or relayed third-party content). Repos cloned 2026-11-04 (commits from analysis/ad_provenance/coding/verification.json); search: grep -rniE 'auction|\\bbid(s|ding|_amount)?\\b|\\bcpc\\b|\\bcpm\\b|campaign|sponsor|advertiser|second.price' excluding node_modules/.git/lockfiles. Hits were only: agent-rails ShopPage.cs rel=\"nofollow sponsored\" (HTML link attribute), aloha utm_campaign=mcp-<client> stamping (agent-client attribution), firecrawl README/tool text ('before bidding', feedback tool). dealsping-ai is NOT marked N/A: its deployed affiliate tag differs from the public repo. Every other category, and every other server, is applicable (cell = 0% when not observed).",
+ "na_categories": ["bid", "score", "competing", "winner"],
+ "servers": {
+  "agent-rails.onrender.com": "federicocelico/agent-rails e0f5fb8: AmazonAffiliateNetwork.cs builds tag/ascsubtag; no auction logic",
+  "mcp.aloha.fyi": "baphometnxg/aloha-fyi-mcp 2dd2e5e: buildAffiliateUrl + /r/ redirect; no auction logic",
+  "mcp-server-nani-v3-20.up.railway.app": "same code base as mcp.aloha.fyi (identical tools/responses, aloha.fyi/r/ links)",
+  "healthyagingatlas.com": "RustamIsmail/healthyagingatlas-mcp 1462f5b: returns stored affiliateUrl; no auction logic",
+  "mcp.bikefuchs.com": "bikefuchs/bikefuchs-mcp-stub 1603e4e: operator /go/ affiliate links; no auction logic",
+  "mcp.firecrawl.dev": "firecrawl/firecrawl-mcp-server 859526b: relays /v2/search results; ads are publisher links inside scraped pages"
+ }
+}

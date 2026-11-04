@@ -1,0 +1,31 @@
+{
+  "_about": "S5 verification evidence gathered AFTER independent coding: source code of public repositories (cloned 2026-11-04, commit noted) and upstream checks. Applied on top of the adjudicated codes in s6_adjudicate.py; agreement statistics are computed on the sheet-only codes before these are applied. 'set' overrides fields of the adjudicated code for that signature.",
+  "repos": {
+    "federicocelico/agent-rails": "e0f5fb8 (2026-08-05)",
+    "baphometnxg/aloha-fyi-mcp": "2dd2e5e (2026-08-28)",
+    "akhilbabumfwa-oss/dealsping-ai": "23c57f6 (2026-09-09)",
+    "RustamIsmail/healthyagingatlas-mcp": "1462f5b (2026-04-19)",
+    "bikefuchs/bikefuchs-mcp-stub": "1603e4e (2026-11-01)",
+    "firecrawl/firecrawl-mcp-server": "9ff895a (2026-11-05)",
+    "chrisgu/agentiq-mcp": "99ba24d (2026-08-18)",
+    "StonesofCreation/stackswap-mcp": "9520574 (docs/schemas only, no implementation)",
+    "cello305/carddeals-mcp": "69f7441 (docs only, no implementation)",
+    "mcpqueen/mcpqueen": "51168b7 (no affiliate/referral logic found)"
+  },
+  "evidence": {
+    "2f54a1569a4b": {"set": {"basis": "source_code", "confidence": "high"}, "ref": "agent-rails src/AgentRails.Core/Services/AmazonAffiliateNetwork.cs:29-48 builds ?tag={AmazonPartnerTag}&ascsubtag={clickId}; Options/AgentRailsOptions.cs:8 AmazonPartnerTag='agentrails-20' (observed tag)"},
+    "21362fda8086": {"set": {"basis": "source_code", "confidence": "high"}, "ref": "same click id minted by the server (AmazonAffiliateNetwork.cs:30,45 subtag=clickId) and served as /v1/go/clk_<id>"},
+    "7278846c2052": {"set": {"status": "confirmed_ad", "origin": "operator", "basis": "source_code", "confidence": "high"}, "ref": "aloha-fyi-mcp http.ts:186-211 buildAffiliateUrl (operator CJ PID 7903538 for Groupon; UTM stamping of stored affiliate_url for Viator/GYG/Klook); http.ts:250-300 /r/{code} redirect; lib/aaak.ts:9 'booking_url - affiliate revenue'. Note: repo tool description (http.ts:570) says 'with affiliate booking links'; the deployed description crawled 2026-09-30 says only 'with booking links'."},
+    "4843f4721014": {"set": {"status": "confirmed_ad", "origin": "operator", "basis": "source_code", "confidence": "high"}, "ref": "same code base as mcp-server-nani-v3-20 (aloha.fyi/r/ links); see 7278846c2052"},
+    "24e2f78bc1df": {"set": {"basis": "source_code", "confidence": "high"}, "ref": "dealsping-ai src/mcp.js:9-12 builds https://www.amazon.in/dp/${asin}?tag=webdealsping-21 (observed tag)"},
+    "dc5ad4ceaacc": {"set": {}, "ref": "repo src/mcp.js:15 builds the same amazon.in/s?k= link but with tag webdealsping-21; observed tag dealspingai-21 (named in server instructions) -> deployed build differs from public repo; documentation basis kept"},
+    "3cb3d220f877": {"set": {}, "ref": "as dc5ad4ceaacc"},
+    "b4087718f3cb": {"set": {}, "ref": "as dc5ad4ceaacc"},
+    "119717ba291e": {"set": {"basis": "source_code", "confidence": "high"}, "ref": "healthyagingatlas-mcp server.js:23-25 loads operator data/moat/products.json; server.js:150 returns affiliate_url: p.affiliateUrl"},
+    "76c6d7844146": {"set": {"basis": "source_code", "confidence": "high"}, "ref": "bikefuchs-mcp-stub app/lib/mcpServer.ts:24 'host for the /go/ affiliate links we hand to users'; :359-364 links are canonical bikefuchs.com/go/<shop>/<ean> built by the operator, never raw shop URLs"},
+    "d7edfe86ba08": {"set": {"basis": "source_code", "confidence": "high"}, "ref": "as 76c6d7844146 (/go/url?shop= fallback for products without EAN)"},
+    "4aedffc1293d": {"set": {}, "ref": "firecrawl-mcp-server src/server.ts:1895-1924 relays the /v2/search envelope (position stamps, tool-price stripping only); no insertion path. Live WSJ page HTTP 401 (2026-11-04); archive fetch not performed (blocked as walled content)."},
+    "be5e81228116": {"set": {}, "ref": "as 4aedffc1293d"},
+    "918689120a49": {"set": {}, "ref": "Both Impact Ticketmaster links (publisher 7623219; Enter Shikari 2026-10-21, We Are Scientists 2026-09-30) carry booking.source='dailyinfo'. dailyinfo event page 298649 fetched 2026-11-04 no longer shows a ticket link (event passed); no archive copy (CDX empty)."}
+  }
+}

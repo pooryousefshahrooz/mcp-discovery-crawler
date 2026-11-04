@@ -1,0 +1,23 @@
+{
+ "_about": "Eligible servers for the ad-metadata study (2026-11-04). Base = every server with >=1 confirmed ad in the v2 provenance study (analysis/ad_provenance/out/ad_provenance_results.csv, 51 servers). Cross-checked against the 2026-10-29 full crawl (fresh_measurement/runs/2026-10-29-full/ad_candidates.json, commercial_candidate: true, 27 hosts) and analysis/ad_observed.py (27 hosts).",
+ "base_v2": 51,
+ "added_from_fresh_crawl": {
+  "tulugar.com": "listings labelled 'FEATURED (paid placement, labeled \"Destacado\")' -> confirmed_ad, operator",
+  "bluesky.caseyjhand.com": "amzn.to affiliate links inside retrieved Bluesky profile bios -> confirmed_ad, third_party_content",
+  "socialbridge-mcp.vercel.app": "amzn.to 'Purchase Link' affiliate links inside retrieved YouTube descriptions -> confirmed_ad, third_party_content"
+ },
+ "rejected_from_fresh_crawl": {
+  "birkinbagstock.com": "site-level 'some merchant links on our pages may be affiliate links' only; no ad item in the response",
+  "modelsagree.com": "'advertisement' = BGP route advertisement (networking text)",
+  "www.cannonstudio.app": "'Advertisement' = a video content type"
+ },
+ "in_ad_observed_only_not_eligible": {
+  "api.thrifle.com": "v2 provenance two-coder review: no confirmed ad",
+  "tablejourney.com": "v2 provenance two-coder review: no confirmed ad",
+  "uakozrqrztgrgwoywxkx.supabase.co": "not among v2 confirmed-ad servers (ad_observed.py counts bare UTM links as ads; v2 codebook does not)"
+ },
+ "unavailable_live": {
+  "deal.ly": "MCP endpoint returns HTTP 404 (2026-11-04)",
+  "mcp.nomadstays.com": "confirmed ad tool getMarketplaceAdverts no longer listed (2026-11-04)"
+ }
+}

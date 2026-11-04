@@ -1,0 +1,100 @@
+{
+ "eligible_servers": 54,
+ "probed_servers": 52,
+ "unavailable_servers": 2,
+ "calls": 4978,
+ "ok_responses": 4970,
+ "ad_containing_responses": 2363,
+ "servers_with_ad_responses": 41,
+ "servers_without_ad_responses": [
+  "bluesky.caseyjhand.com",
+  "wogrill.de",
+  "wohandy.de",
+  "wokonsole.de",
+  "wolaptop.de",
+  "wopool.de",
+  "woroller.de",
+  "wosolar.de",
+  "wospeicher.de",
+  "wostrom.de",
+  "wotablet.de"
+ ],
+ "servers_stopped_429": [
+  "cashbackpro.org",
+  "grabgpu.com",
+  "healthyagingatlas.com"
+ ],
+ "review": {
+  "accepted": 61278,
+  "security header; matched on 'ad-' substring": 15,
+  "value is often 'This card is sold directly by CardDeals' (not an ad disclosure); ad disclosure is carried by affiliate_disclosure": 750,
+  "subreddit path /r/": 52,
+  "image CDN path segment /r/": 140,
+  "remapped": 700,
+  "denies affiliate tracking ('No outbound link here is affiliate-tracked') - reported separately as a contradictory disclosure": 156,
+  "'anzeige' = watch display type (filter facet), not German 'Anzeige' (ad)": 45,
+  "filter facet label 'Anzeige' (display), not an ad label": 5,
+  "user-facing exchange fee rebate, not advertiser payment terms": 400,
+  "event creator's own Eventbrite tag (source: discovery), coded not gigstamp's ad": 20,
+  "load-balancer telemetry header": 45
+ },
+ "auction_specific": {
+  "responses_explicit": 200,
+  "responses_any": 240,
+  "responses_broad_incl_auction_tokens": 240,
+  "pct_of_ad_responses_explicit": 8.46,
+  "pct_of_ad_responses_any": 10.16,
+  "pct_of_ad_responses_broad": 10.16,
+  "pct_of_applicable_ad_responses_explicit": 10.4,
+  "applicable_ad_responses": 1924,
+  "servers_explicit": [
+   "mcp.adoraads.ai",
+   "mcp.nexbid.dev"
+  ],
+  "servers_any": [
+   "mcp.adoraads.ai",
+   "mcp.nexbid.dev",
+   "moltad.net"
+  ],
+  "servers_broad": [
+   "mcp.adoraads.ai",
+   "mcp.nexbid.dev",
+   "moltad.net"
+  ],
+  "servers_all_four_explicit": [
+   "mcp.nexbid.dev"
+  ]
+ },
+ "categories_per_server_any": {
+  "1": 9,
+  "2": 22,
+  "3": 6,
+  "4": 3,
+  "7": 1
+ },
+ "categories_per_server_explicit": {
+  "0": 2,
+  "1": 9,
+  "2": 24,
+  "3": 4,
+  "4": 1,
+  "7": 1
+ },
+ "supplementary_servers": {
+  "x_commission": [
+   "cashbackpro.org"
+  ],
+  "x_auction_token": [
+   "mcp.adoraads.ai"
+  ],
+  "x_relevance_score": [
+   "agent-rails.onrender.com",
+   "bonizu.com",
+   "healthyagingatlas.com",
+   "mcp.kitsdeals.com",
+   "mcp.nexbid.dev",
+   "padel.how",
+   "wem3.ai"
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Hand review of every extracted (server, category, rule) group in out/field_groups.csv. Default = accept. Listed groups are rejected (false positive) or remapped (protocol headers to the category they name). Keys are host|rule (rule as in field_groups.csv; '*' = any host).",
+ "reject": {
+  "*|header:x-download-options": "security header; matched on 'ad-' substring",
+  "*|header:endpoint-load-metrics": "load-balancer telemetry header",
+  "*|key:fee_discount": "user-facing exchange fee rebate, not advertiser payment terms",
+  "catalog.carddeals.co|key:disclosure": "value is often 'This card is sold directly by CardDeals' (not an ad disclosure); ad disclosure is carried by affiliate_disclosure",
+  "wem3.ai|key:disclosure": "denies affiliate tracking ('No outbound link here is affiliate-tracked') - reported separately as a contradictory disclosure",
+  "wouhr.de|text:label_text": "'anzeige' = watch display type (filter facet), not German 'Anzeige' (ad)",
+  "wouhr.de|key:label": "filter facet label 'Anzeige' (display), not an ad label",
+  "piqod.it|url:redirect@media-cdn.tripadvisor.com": "image CDN path segment /r/",
+  "mcp.firecrawl.dev|url:redirect@www.reddit.com": "subreddit path /r/",
+  "www.gigstamp.co.uk|url:aff@www.eventbrite.com": "event creator's own Eventbrite tag (source: discovery), coded not gigstamp's ad"
+ },
+ "remap": {
+  "umesh-malik.com|header:x-agent-ad-campaign": ["campaign", "header_field"],
+  "umesh-malik.com|header:x-agent-ad-sponsor": ["advertiser", "header_field"],
+  "umesh-malik.com|header:x-agent-ad-impression": ["tracking", "header_field"],
+  "umesh-malik.com|header:x-agent-ad-creative": ["tracking", "header_field"],
+  "umesh-malik.com|header:x-agent-ad-kind": ["disclosure", "header_field"],
+  "umesh-malik.com|header:x-agent-ad-count": ["disclosure", "header_field"],
+  "umesh-malik.com|header:x-agent-ad-policy": ["disclosure", "header_field"]
+ },
+ "notes": {
+  "mcp.adoraads.ai|key:rank_boost": "accepted as ad-ranking score: per-item ranking boost on sponsored results within an auction (auction_id, bid_token present); demo tenant, example.com landing pages",
+  "moltad.net|key:max_rate_credits": "accepted as INFERRED bid: per-brand maximum rate an advertiser pays per event (100 credits = $1), not labelled 'bid'",
+  "lmk.today|url:campaign_id": "campaign id inside an ad-server redirect path /api/v1/bid/redirect (host r.v2i8b.com)",
+  "voyagehacks.com|url:campaign_id": "Travelpayouts (tp.media) program/campaign id",
+  "mcp.nexbid.dev|url:pid@nexbid.dev": "product id passed to Nexbid's own click tracker /api/track/click",
+  "picoads.xyz|key:bootstrap_token": "per-serve signed token returned with sponsored items (publisher attribution)",
+  "*|key:score": "relevance score; never counted as auction score (x_relevance_score)"
+ }
+}

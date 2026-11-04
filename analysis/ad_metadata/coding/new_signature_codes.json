@@ -1,0 +1,1472 @@
+{
+ "0d1e98dfd6fa": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "dealsping-ai.akhilbabumfwa.workers.dev",
+  "tool": "check_and_link",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.in"
+ },
+ "554c141afa1f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "find.codes",
+  "tool": "search_codes",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "getnomadapp.go.link"
+ },
+ "282fa119debc": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "find.codes",
+  "tool": "search_codes",
+  "kind": "url",
+  "signals": "aff_param,src_param",
+  "url_host": "app.lighter.xyz"
+ },
+ "2b572e6e243f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "find.codes",
+  "tool": "search_codes",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "flysoar.ai"
+ },
+ "e4ca4fa4dae2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "find.codes",
+  "tool": "search_codes",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "phantom.com"
+ },
+ "9bc849bd9a3f": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "grabgpu.com",
+  "tool": "find_gpu",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "cloud.vast.ai"
+ },
+ "1ffcf4ec7e6d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "healthyagingatlas.com",
+  "tool": "search_supplements",
+  "kind": "url",
+  "signals": "aff_network,aff_param",
+  "url_host": "www.awin1.com"
+ },
+ "78b8bef78e84": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "disclosure text on an empty result (deals: []) - no ad item",
+  "host": "mcp-production-680d.up.railway.app",
+  "tool": "get_deals",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "ffb05197838e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "mcp-production-680d.up.railway.app",
+  "tool": "get_deals",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "www.anrdoezrs.net"
+ },
+ "fce33cfab476": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "Walmart 'Sponsored' product label inside a scraped page",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "d2bcee5071cc": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "d3a6afc38eb3": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "brooksrunning.sjv.io"
+ },
+ "7b40e0e6a050": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "buy.geni.us"
+ },
+ "242bdf45e26b": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "buy.geni.us"
+ },
+ "fc182cf7d6c0": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "click.linksynergy.com"
+ },
+ "e23f4c5f30d9": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "click.linksynergy.com"
+ },
+ "e6893d4bf35d": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "cratebarrel.pxf.io"
+ },
+ "11f0ce32f0cc": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "geni.us"
+ },
+ "9a591f9d0f84": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "go.redirectingat.com"
+ },
+ "183c50170076": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "go.skimresources.com"
+ },
+ "88ae5c962f00": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "go.skimresources.com"
+ },
+ "c8cf71a83066": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "go.skimresources.com"
+ },
+ "ce46b673c053": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "homedepot.sjv.io"
+ },
+ "a0dfcf080244": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "lectricebikes.sjv.io"
+ },
+ "3847e30e7d57": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "new-balance-athletics-inc.sjv.io"
+ },
+ "5a3cff896ad3": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "onepluscom.pxf.io"
+ },
+ "9e2791356a3f": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "roadrunnersports.sjv.io"
+ },
+ "28a24d74f7d7": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "sharkninja.sjv.io"
+ },
+ "faaf059e35fe": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "shoebacca.ojrq.net"
+ },
+ "1285a04bae1d": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "www.dpbolvw.net"
+ },
+ "19654f17a35a": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "www.jdoqocy.com"
+ },
+ "910b1302bddc": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "www.tkqlhce.com"
+ },
+ "4288ac1fe0eb": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "adidas.njih.net"
+ },
+ "8824f2516fe2": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "adidas.njih.net"
+ },
+ "e5fb30fa8aae": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "amazon.com"
+ },
+ "88debce40421": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "ea0f850dff2f": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "ccaf90adf7fe": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "771a74e50b17": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "a0bfafcda075": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "33900320be54": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "686710ac7b7b": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "effb2ef16598": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "dfdbfe8a6245": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "aa32aab37dc1": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "4e4842021f40": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "14767d3b0dc4": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "29a73c45c783": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "096d3ffa8839": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "8fb88813b0e5": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "02a4f54c7f5e": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "694b69148bfe": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "4b1ef0d6c7d6": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "ae4463985e4c": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "d2bd09b1dd00": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param,src_param",
+  "url_host": "ncls1.com"
+ },
+ "9393e6f2805d": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param,src_param",
+  "url_host": "www.amazon.com"
+ },
+ "2a46732c8ac2": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "publisher affiliate link inside a scraped page (v2: WSJ case)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "aff_param,src_param",
+  "url_host": "www.amazon.com"
+ },
+ "24525c0d5026": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "redirect path only inside scraped page (v2 code for this class: not_ad)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "www.nerdwallet.com"
+ },
+ "735093fdbec2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "redirect path only inside scraped page (v2 code for this class: not_ad)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "www.sleepfoundation.org"
+ },
+ "ac8222c581f9": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "redirect path only inside scraped page (v2 code for this class: not_ad)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "www.soundstagesolo.com"
+ },
+ "419cffd5000a": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "redirect path only inside scraped page (v2 code for this class: not_ad)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "www.walmart.com"
+ },
+ "331c06e64d9c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "redirect path only inside scraped page (v2 code for this class: not_ad)",
+  "host": "mcp.firecrawl.dev",
+  "tool": "firecrawl_search",
+  "kind": "url",
+  "signals": "redirect_path",
+  "url_host": "www.walmart.com"
+ },
+ "31ef444c4a87": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "mcp.outdoorithm.com",
+  "tool": "search_gear",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "230fcbd1829c": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "per-offer 'Affiliate link. padel.how may earn a commission'",
+  "host": "padel.how",
+  "tool": "get_offers",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "20af25713000": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "get_offers",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "ab776721400a": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "per-offer 'Affiliate link. padel.how may earn a commission'",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "6707725540fe": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "de85e9bc3b1d": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "965f24ff6d3a": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "2a6737659f67": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "1da1dd329224": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "6595c9ec9227": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "c4d359d98008": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "db899f0f5e69": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "2fd5ae390429": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "padel.how",
+  "tool": "search_rackets",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.amazon.com"
+ },
+ "e94be6311c2f": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "note": "'Some links ... are affiliate links' - no identifiable ad item",
+  "host": "voyagehacks.com",
+  "tool": "search_travel_gear",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "95e73ce11978": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "wem3 /api/go redirect wrapping a retailer link with clickref=wem-*",
+  "host": "wem3.ai",
+  "tool": "find_lowest_price",
+  "kind": "nested",
+  "signals": "aff_param",
+  "url_host": "wem3.ai"
+ },
+ "fa9e815510f8": {
+  "status": "promotional",
+  "origin": "operator",
+  "note": "wem3 /shop redirect with UTM only (host-level v2 code: promotional)",
+  "host": "wem3.ai",
+  "tool": "find_lowest_price",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wem3.ai"
+ },
+ "fa1329cb7b90": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wogrill.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wogrill.de"
+ },
+ "7da97e6966de": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wogrill.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wogrill.de"
+ },
+ "dfc5b4747a6f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wogrill.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wogrill.de"
+ },
+ "014438f7fe72": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wogrill.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wogrill.de"
+ },
+ "71c8ad01c3e3": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wogrill.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wogrill.de"
+ },
+ "84c54c6abc5c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wohandy.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wohandy.de"
+ },
+ "dc9d245dcf2b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wohandy.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wohandy.de"
+ },
+ "a8062527f516": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wohandy.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wohandy.de"
+ },
+ "dabbed0bda7b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wohandy.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wohandy.de"
+ },
+ "48175c0d583b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wohandy.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wohandy.de"
+ },
+ "e0d1cd112ba2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wokonsole.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wokonsole.de"
+ },
+ "51533c3d326c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wokonsole.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wokonsole.de"
+ },
+ "1e9facf2363c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wokonsole.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wokonsole.de"
+ },
+ "3e8e050fe03c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wokonsole.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wokonsole.de"
+ },
+ "400920a840a3": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wokonsole.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wokonsole.de"
+ },
+ "b27a3c438350": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wolaptop.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wolaptop.de"
+ },
+ "f56408c66e76": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wolaptop.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wolaptop.de"
+ },
+ "7be39fda9269": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wolaptop.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wolaptop.de"
+ },
+ "c7af756ed5dd": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wolaptop.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wolaptop.de"
+ },
+ "58e5e8fa0a17": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wolaptop.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wolaptop.de"
+ },
+ "aad80f4d3d52": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wopool.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wopool.de"
+ },
+ "95d05117acc2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wopool.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wopool.de"
+ },
+ "7b1733870dda": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wopool.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wopool.de"
+ },
+ "48c1e89166c6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wopool.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wopool.de"
+ },
+ "8ee699d92430": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wopool.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wopool.de"
+ },
+ "d08e9f5db865": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "woroller.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "woroller.de"
+ },
+ "e47fa197d4ee": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "woroller.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "woroller.de"
+ },
+ "7cf28e34e57c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "woroller.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "woroller.de"
+ },
+ "e8c039ec2136": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "woroller.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "woroller.de"
+ },
+ "82ca24c4788f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "woroller.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "woroller.de"
+ },
+ "143f1b303ec1": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "wosneaker.de",
+  "tool": "search_offers",
+  "kind": "nested",
+  "signals": "aff_network",
+  "url_host": "wosneaker.de"
+ },
+ "2cd590ae2a70": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosneaker.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosneaker.de"
+ },
+ "84d13ec10627": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosneaker.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosneaker.de"
+ },
+ "f5c5cf9c0e2c": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosneaker.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosneaker.de"
+ },
+ "b3efb514ba04": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosneaker.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosneaker.de"
+ },
+ "4a6831e22af4": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosneaker.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosneaker.de"
+ },
+ "02b4cff240d1": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosolar.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosolar.de"
+ },
+ "7e172a497c9b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosolar.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosolar.de"
+ },
+ "bba12ad68ef6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosolar.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosolar.de"
+ },
+ "94de5f176584": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosolar.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosolar.de"
+ },
+ "a1a774334e8f": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wosolar.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wosolar.de"
+ },
+ "4d926a5a21e3": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wospeicher.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wospeicher.de"
+ },
+ "ffe1d6688f72": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wospeicher.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wospeicher.de"
+ },
+ "28a9cc09192b": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wospeicher.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wospeicher.de"
+ },
+ "42fba8df246d": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wospeicher.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wospeicher.de"
+ },
+ "0f84e94bb8e0": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wospeicher.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wospeicher.de"
+ },
+ "754ec40e5afd": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wotablet.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wotablet.de"
+ },
+ "b9a62d5e42d1": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wotablet.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wotablet.de"
+ },
+ "eabf2c2dc3ec": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wotablet.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wotablet.de"
+ },
+ "a9819873ccae": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wotablet.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wotablet.de"
+ },
+ "bdefea0a4ff8": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wotablet.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wotablet.de"
+ },
+ "e3d62745f0f3": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "same affiliate/referral mechanism as the server's v2-confirmed ads (new link host/path)",
+  "host": "wouhr.de",
+  "tool": "search_offers",
+  "kind": "nested",
+  "signals": "aff_network",
+  "url_host": "wouhr.de"
+ },
+ "d9ab7cecc2eb": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wouhr.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wouhr.de"
+ },
+ "e1e5fbac5938": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wouhr.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wouhr.de"
+ },
+ "c9073fc3d9e3": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wouhr.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wouhr.de"
+ },
+ "83552811f322": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wouhr.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wouhr.de"
+ },
+ "8abb68adfbe6": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "note": "link to the operator's own guide/brand page with UTM only",
+  "host": "wouhr.de",
+  "tool": "search_offers",
+  "kind": "url",
+  "signals": "attrib_utm",
+  "url_host": "wouhr.de"
+ },
+ "6b97eeeaa874": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "states the returned signup links are referral links (coinrebate referral ads, v2 confirmed)",
+  "host": "www.coinrebate.vip",
+  "tool": "get_exchange_fees",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "0b708aca0264": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "operator /go/<exchange> referral redirect with fee discount",
+  "host": "www.coinrebate.vip",
+  "tool": "get_exchange_fees",
+  "kind": "url",
+  "signals": "attrib_utm,redirect_path",
+  "url_host": "www.coinrebate.vip"
+ },
+ "ce0bfec63d4d": {
+  "status": "commercial_other",
+  "origin": "n/a",
+  "note": "Eventbrite aff=oddtdtcreator is the event creator's tag (source: discovery), not gigstamp's",
+  "host": "www.gigstamp.co.uk",
+  "tool": "search_gigs_and_events",
+  "kind": "url",
+  "signals": "aff_param",
+  "url_host": "www.eventbrite.com"
+ },
+ "87ecd32ee396": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "disclosure",
+  "signals": "disclosure",
+  "url_host": ""
+ },
+ "713f9c16ce70": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "20a2e9440b30": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "768446d3b649": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "amzn.to"
+ },
+ "690a34b1f813": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "geni.us"
+ },
+ "db9405176dd3": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "geni.us"
+ },
+ "a54234d208e6": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "geni.us"
+ },
+ "62034c45b61c": {
+  "status": "confirmed_ad",
+  "origin": "third_party_content",
+  "note": "affiliate link / sponsored label inside retrieved third-party content (v2: Firecrawl/WSJ case)",
+  "host": "socialbridge-mcp.vercel.app",
+  "tool": "search_all",
+  "kind": "url",
+  "signals": "aff_network",
+  "url_host": "geni.us"
+ },
+ "fc380f30cc14": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "note": "listing labelled 'FEATURED (paid placement, labeled Destacado)'",
+  "host": "tulugar.com",
+  "tool": "search_listings",
+  "kind": "label",
+  "signals": "label",
+  "url_host": ""
+ }
+}

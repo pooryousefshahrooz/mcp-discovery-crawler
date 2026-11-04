@@ -1,0 +1,17 @@
+{
+ "deal.ly": {
+  "endpoint": "https://deal.ly/mcp",
+  "confirmed_ad_tools": [
+   "hot_list",
+   "scan_deals"
+  ],
+  "reason": "endpoint returns HTTP 404"
+ },
+ "mcp.nomadstays.com": {
+  "endpoint": "https://mcp.nomadstays.com/mcp",
+  "confirmed_ad_tools": [
+   "getMarketplaceAdverts"
+  ],
+  "reason": "ad tool(s) no longer listed: ['getMarketplaceAdverts']"
+ }
+}

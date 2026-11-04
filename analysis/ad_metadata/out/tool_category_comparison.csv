@@ -1,0 +1,5 @@
+tool_category,servers,ad_responses,disclosure_pct_explicit,disclosure_servers_any,advertiser_pct_explicit,advertiser_servers_any,campaign_pct_explicit,campaign_servers_any,bid_pct_explicit,bid_servers_any,score_pct_explicit,score_servers_any,competing_pct_explicit,competing_servers_any,winner_pct_explicit,winner_servers_any,tracking_pct_explicit,tracking_servers_any,mean_cats_any_per_server
+ad network,4,310,100.0,4,22.6,3,32.3,1,32.3,2,64.5,2,32.3,1,32.3,1,80.6,4,4.5
+other vertical,15,817,48.7,10,13.5,3,19.6,2,0.0,0,0.0,0,0.0,0,0.0,0,53.9,12,1.8
+shopping,21,1205,88.0,19,0.0,3,5.5,1,0.0,0,0.0,0,0.0,0,0.0,0,85.6,20,2.05
+search,1,31,25.8,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,80.6,1,2.0

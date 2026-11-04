@@ -1,0 +1,139 @@
+{
+ "_about": "Adjudicated code for every A/B disagreement listed in out/disagreements.csv. Each decision cites the codebook rule and the evidence that settles it. Written after both codings were complete for the signatures concerned.",
+ "918689120a49": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Impact Ticketmaster link. booking.source='dailyinfo' names where the event record came from, but the server instructions state the booking link is 'an affiliate link that supports gigstamp'; codebook rule 1 excludes third_party_content when the server describes itself as adding such links -> rule 3 operator (B correct; A had missed the instruction text, truncated on the sheet)."
+ },
+ "2ee7c7a29162": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "other",
+  "note": "Awin SeeTickets link; same instruction ('booking link (an affiliate link that supports gigstamp)') -> operator (B correct)."
+ },
+ "76c6d7844146": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Server instructions: 'Results contain affiliate links. Always pass these links to the user as provided'; every response ends 'Kann Affiliate-Links enthalten' -> codebook (c) (A correct; B had not seen the instruction/footer)."
+ },
+ "d7edfe86ba08": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "as 76c6d7844146 (A correct)."
+ },
+ "eec85d48f5e2": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "ad_network",
+  "note": "One click-tracker mechanism shared by organic and sponsored items (~1/3 sponsored). The sponsored items are already counted through the [Sponsored] label signature a07e89acea0b; counting this link signature as an ad would count organic results as ads (task rule: organic commercial results are not paid placements) -> not_ad for the link mechanism (A)."
+ },
+ "acb0aef50184": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "Tool description: 'Publisher agents inject these as ads'; the creatives (moltadserver redirect wrapping a CJ link, ft=affiliate_network) are ad units served to the calling agent for display, the same role as picoads get_recommendations which both coders coded confirmed -> confirmed for consistency (A)."
+ },
+ "e3fa3c501006": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "Price comparison of ad vendors published by an ad-placement seller: advertising-industry material, codebook commercial_other (B)."
+ },
+ "29ea73875793": {
+  "status": "commercial_other",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "as e3fa3c501006 (B)."
+ },
+ "09640fb24c1e": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "about_thrifle answers the question it is called for (what the service is); the affiliate-network list is self-description with no ad item and nothing inserted into another answer (B)."
+ },
+ "1bbf8a734ca0": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "shopping",
+  "note": "Per-item 'may earn a commission if you buy through the retailer link', but these product_urls are plain merchant URLs with no tracking parameter, so the stated relationship cannot apply to the link as returned; codebook (c) requires the statement to be consistent with the response. The same server's tracked links (Awin, CJ) are coded confirmed separately (A)."
+ },
+ "3364c86d62f6": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "medium",
+  "tool_category": "ad_network",
+  "note": "Same mechanism as acb0aef50184 (adjudicated confirmed): ad units served to the calling agent for display, with 'Affiliate disclosure ... promoted via MoltAd platform demand' (A, for consistency)."
+ },
+ "8462ac961b6c": {
+  "status": "promotional",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Returned links are the operator's own listing pages tagged source=mcp: first-party attribution, codebook promotional; no returned affiliate link (A). Either code leaves the ad counts unchanged."
+ },
+ "91df7c666e08": {
+  "status": "not_ad",
+  "origin": "n/a",
+  "basis": "none",
+  "confidence": "n/a",
+  "tool_category": "other",
+  "note": "speedbot_topics is called to list the operator's own funded-task prompts; returning them is the tool's function, not promotion inserted into an answer (B)."
+ },
+ "e8862bf4169e": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "Both coders: confirmed/operator. Confidence lowered on B's caveat: the server field is named aff_url and points to a /bid/redirect on r.v2i8b.com, which is not a known affiliate network, and lmk.today publishes no affiliate disclosure; the Amazon-tag links of the same wrapper are verifiable and stay high/medium."
+ },
+ "ae1ddbd67989": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "as e8862bf4169e"
+ },
+ "f367a08adfa2": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "in_response_trace",
+  "confidence": "low",
+  "tool_category": "shopping",
+  "note": "as e8862bf4169e"
+ },
+ "a5ca7fd42b77": {
+  "status": "confirmed_ad",
+  "origin": "operator",
+  "basis": "documentation",
+  "confidence": "medium",
+  "tool_category": "shopping",
+  "note": "Flagged by coder B from the attribution-only list; verified by A in the raw response: own-host /uit/ outbound buy_url plus the response's affiliate_disclosure ('Sommige links ... zijn affiliate-links ... ontvangen wij een commissie'). 'Some links' wording -> documentation/medium. Detector miss (Dutch hyphenated wording, /uit/ path) recorded as a recall limitation."
+ }
+}
