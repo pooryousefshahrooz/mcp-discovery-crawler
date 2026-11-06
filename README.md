@@ -1,4 +1,4 @@
-# MCP discovery crawler and ad study (`before_the_call/`)
+# Who Pays the Agent? — MCP discovery crawler and ad study
 
 This repository does two things:
 
@@ -12,7 +12,7 @@ This repository does two things:
    item is paid.
 
 ```
-before_the_call/
+.
 ├── run_pipeline.sh          # one command: directories -> merged pool -> discovery
 ├── discover.py              # the MCP discovery scanner (Part A)
 ├── mcp_paths.py             # helper: which data/<date>/ folder the analysis scripts read
