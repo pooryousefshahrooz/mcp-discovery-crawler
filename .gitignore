@@ -41,3 +41,10 @@ analysis/ad_metadata/out/findings_accepted.csv
 analysis/ad_provenance/out/*
 !analysis/ad_provenance/out/final_codes.json
 analysis/*/*_FINDINGS.md
+
+# ad-ecosystem experiment: exclude raw redirect chains (single-use tracking tokens),
+# the downloaded EasyList/EasyPrivacy snapshots (reproducible), and run logs.
+# The redacted CSVs, graphml, JSON summaries, findings.md and figures ARE kept.
+analysis/ad_ecosystem/out/mcp_redirect_chains.jsonl
+analysis/ad_ecosystem/lists/
+analysis/ad_ecosystem/out/*.log

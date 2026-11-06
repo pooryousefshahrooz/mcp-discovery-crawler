@@ -1,0 +1,33 @@
+# wolaptop.de
+
+- **Endpoint:** https://wolaptop.de/api/mcp
+- **Server:** wolaptop.de-preisvergleich 2026-07-07
+- **Ad-serving tool(s):** search_offers
+- **Tool category:** shopping
+- **Distinct ads observed:** 9 | **ad impressions:** 13
+- **Coder confidence / basis:** medium / documentation
+- **Server instructions:** wolaptop.de ist ein Preisvergleich (Deutschland, EUR; Seiten in 7 Sprachen: de, en, tr, ar, ru, pl, uk). Nutze "search_offers" fuer Preisfragen und "find_pages" fuer Kaufberatung/Vergleiche. Aktuelle Preise aller Shops stehen auf der Seite selbst: verweise Nutzer auf siteSearchUrl bzw. die Links unter browse und gib alle Links UNVERAENDERT weiter. Es wird nichts verkauft (Affiliate, Preis fuer Kaeufer unveraendert). EN: Price comparison site for Germany (pages in 7 languages: de, en, tr, ar, ru, pl, uk; pass language=<code> in the user's language, e.g. "en", "tr", "fr"). Use "search_offers" for price questions and "find_pages" for buying advice; send users to siteSearchUrl / browse links for live prices from all shops and keep links unchanged.
+
+## Evidence (why coded as advertising)
+- *tool `search_offers`* — as 21a9478ba20c || eBay EPN / Amazon tag / AliExpress / Tradedoubler affiliate link nested in the /out redirect; instructions: links go to merchant (Affiliate)
+
+## Example advertised items / links
+- `www.ebay.de/itm/307207735343?campid=5339164220`  (impressions: 5)
+- `s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIT8AmNZpNaFBAipHTpwBU5O9gKg0eJJriLWS9iN61Uhzgt3LYiwk8cZcJXQuc0xL67qrcg5y0i8kTZv5cCZmbTJS1J9HGT9BoBMpAdEOrnQrhZauzDOS0tuQSB2MKNXFFGZe1OLEEVZtWVgIGtT2lu9Y1NFucHi9MjITfWDuHHOMiSaxe5l4pTDKO38Q2tVAD5MZ1nJhNa9RWTPRmV60uqkZcMpvsjoVIX7hIPgacLZwSc6R2WMopt2kG5YdC4lV6GwhmFhDp3qJlF4voHw7dRBqX66ytt1IZE6Uv0pPiX8MlohmwQj5FwXOc4yjmnHf2Y1NT3wPttyzNbv6WCiIWfspnkCTtvOTsrRvLlM526lcQu5GihXh2WhBzhOgHVKETmrFkm1XYV5DJDxsM3ZbHfdGMiExLTzfqEDFZVewv5MUHnvJmkCmnd6X3M3fka7STFPWqplqKQTsKzz1YZZlnonlmJPp1umuArsXss3voIrfkHugpUHFDvxb7DhQLod96nRTckgZOxmJ0LLQH5Lq4cLEJyZQ86SCwc0ZWh2R0e1qk88hS1McuEAMa7u9PSp6UJ0SwCc1fCPmivLYQX6awBAPtIsr2QqzrGZ3LQRF2H8xJLlkpJLvfFxBHiMS5DH3SeDU7E24ZrN1dyVzVzsvLPUzjHsroU1EUYrS64bfE8aQJEYlTzJJFz1Cxupbi0H7AXdBMNMNWlPE`  (impressions: 1)
+- `s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIT8AmNZpNaFBAipHTpwBU5O9gKg0eJJriLWS9iN61Uhzgt3LYiwk8cZcJXQuc0xL67qrcg5y0i8kTZv5cCZmbTJS1J9HGT9BoBMpAdEOrnQrhZauzDOS0tuQSB2MKNXFFGZe1OLEEVZtWVgIGtT2lu9Y1NFucHi9MjITfWDuHHOMiSaxe5l4pTDKO38Q2tVAD5MZ1nJhNa9RWTPRmV60uqkZcMpvsjoVIX7hHuUbyihpk32bToBHG3jBBbqRowAokzOZuvek761I69Uh8fs4koxNcUyVCTr58lqLSgyEMalwZbJHyhMFgqVBDzLqnbEhiSDn9TvLurtEtjxcUCmFzN0XWjLAlDw5nFYAScxJKWsFHqcLVuagkbpXMaWvMaFZFTNHp9F1s709UWWgpZOMB8vxstOzhs28YWgG9o59XPi6h1hWme1Lmt1Fg5g0jFrlgHYTSsNtGH4BUAmoDgygEXNqjRBM5JAoEK89HgoCvIreJA6eVy0tzRKrLYa6HPJzLDTQkHeaDGfqsmnubiyzmoirkwvbHsr46sTbGfT79bb6TRsWT9b1WOLV24OwDdLUi0yvOb3w4EM6TxQCgIIUx1QBoqrFaGtynhBw50IhSJtjf92pSiyeNgrdcwRXXwxtsoq4atqVyttTyE62NLNhWLcBzFbMMKZ9VAOvl8mq4taWoChauAMZpy7AQXRu9TaNvAn1wJ7EhcfI`  (impressions: 1)
+- `s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2JFPxzsjKsYMNNcJ8ne98oLZ8B8Z4ppscLV8OpYqKxwvwad3UsaOTv4yYwNufloalPIH0BNsZxTA6kB7mYnkNTLihXdsGaUPuvm1DkXmLKew8iDQ4adBdjIbr7NjhGmxffdtyWvaBuRqvBzDopAOefjXnlWUyoCXiajSWNMNQAwp6YY8zBXUYtQccQpXGBY7pfDMOhqOU5mKOxlFsDZ4kxJ6JyUpTwCivqSkdANZw0U5whlxuEXLwE5Rg1S99MeF2YDHUWYYzlUDTnTHVm2xWzWF5ohNTCjKdnXfpDlG98uS0JhJRyPTxl1CeqgqnJttb8RtFJebVqkMkkEwXYtZl3WCTfEC0a28z5wcbw8QiXzflIQdvjnHdeLB2OsD9XyBBPTVimsxdjfZNMPjqdps0FEnsiEFywRfrELQOwwbwEmRoyyTHKguoPCYhUCtNqg7OupPgDucqAteYXADHCYn4X0Llmlo924SzI8XYnlsCoAcPOCYvH4nbiRii9tOPuBlZuKA0Jwo7hBJmzMlg6i5O0YX5LZd3c0RcL386zE6X7YEHxXwflZ63q7Kk3n6yGqiH3DscVwahUelphzBfGYeHjMFfAM5njLTo4ZM7iDAx9YDuzg50Wpxz5xylxQwceaNDpHKQUx2Dqzu1JrahwmGc8ejvBSbgiAq0AcmEMpHRXOUVuNu2uMGF2lbgcVjD3xD7tSf61dsMMm7`  (impressions: 1)
+- `www.ebay.de/itm/137558921532?campid=5339164220`  (impressions: 1)
+- `www.ebay.de/itm/137681164836?campid=5339164220`  (impressions: 1)
+- `www.ebay.de/itm/365544233531?campid=5339164220`  (impressions: 1)
+- `www.ebay.de/itm/366481639428?campid=5339164220`  (impressions: 1)
+- `www.ebay.de/itm/365346871345?campid=5339164220`  (impressions: 1)
+
+## All tools exposed by this server
+### `search_offers`
+Preisvergleich wolaptop.de: tagesaktuelle Bestpreise fuer Laptops aus vielen Shops (u. a. Amazon, eBay), mit Filtern, Vergleichen und Kaufratgebern. Nutze dieses Tool, wenn ein Nutzer nach Preis, Angebot, "guenstig", "wo kaufen" oder einem konkreten Laptop fragt. Liefert siteSearchUrl (aktuelle Preise ALLER Shops auf wolaptop.de), browse (passende Vergleichsseiten, Ratgeber und Markenseiten) und products (Angebote von Partner-Shops, die eine Weitergabe erlauben – kann leer sein). Gib dem Nutzer die Links unveraendert weiter. EN: Today's best prices for Laptops in Germany from many shops. Returns siteSearchUrl (live prices from all shops on wolaptop.de), matching comparison pages, buying guides and brand pages (browse) and partner offers (products, may be empty). Pass links on unchanged. Set language to the user's language (e.g. "en", "tr", "fr") to get pages in that language; the result field languages lists what the site offers.
+
+### `find_pages`
+Findet die passenden Seiten auf wolaptop.de zu einer Frage rund um Laptops: Vergleichsseiten (z.B. nach Ausstattung oder Preisklasse), Ratgeber/Kaufberatung und Markenseiten – jeweils mit Titel, Kurzbeschreibung und Link. Ideal fuer "welcher Laptop ist gut fuer …", "worauf achten beim Kauf" oder "Modelle von <Marke>". EN: Finds matching pages on wolaptop.de – comparisons, buying guides and brand pages with title, summary and link. Use for "which Laptop should I buy", "what to look for" or brand questions.
+
+### `lookup_product`
+Schlaegt ein Partner-Angebot aus search_offers per Produkt-ID (externalId) nach. EN: Looks up a partner offer from search_offers by its ID (externalId). Read-only.
